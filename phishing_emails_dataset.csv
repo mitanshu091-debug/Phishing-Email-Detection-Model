@@ -1,0 +1,2483 @@
+email_id,subject,sender,body,label,word_count,char_count,url_count,has_suspicious_words
+safe_441,Project Update,support@legit.com,"Weekly status report is ready for review.
+
+Best regards,
+Emily Davis
+Manager",Safe,12,76,0,False
+phish_390,URGENT,admin@amazon.com,IRS Notice: Tax refund pending. Click: http://update-5001.ga/login ACCOUNT!!! Congratulations  ACT NOW! 24 hours,Phishing,13,112,1,True
+phish_7,Important,admin@amazon.com,Congratulations! You won a prize. Claim now: http://vaj.secure-7639.tk/login SECURITY!!! ALERT!!! Update ,Phishing,11,105,1,True
+phish_197,URGENT,noreply@irs.gov,"Dear customer, we noticed unusual activity. Please update your info: http://gex.verify-3194.ml/login PRIZE!!! Urgent  Bank  ALERT!!! EXCLUSIVE!!!",Phishing,16,145,1,True
+safe_13,Newsletter,manager@office.com,"New comment on your document: Approved
+
+Reference: project-382",Safe,8,62,0,False
+safe_234,Project Update,john@company.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Best regards,
+John Doe
+Team Lead",Safe,17,105,0,False
+safe_216,Newsletter,team@work.com,Team meeting notes from today's discussion.,Safe,6,43,0,False
+safe_497,Order Confirmation,manager@office.com,"Weekly status report is ready for review.
+
+Best regards,
+John Doe
+Manager",Safe,12,73,0,False
+phish_462,Action Required,service@apple.com,Your Apple ID has been locked. Unlock: http://yvn.verify-6794.tk/login FREE!!! PAYMENT!!! Suspended  UPDATE!!! REFUND!!! ACT NOW! immediately,Phishing,16,141,1,True
+safe_289,Project Update,team@work.com,"Team meeting notes from today's discussion.
+
+Reference: profile-735",Safe,8,67,0,False
+safe_38,Project Update,info@business.com,"Your password was successfully changed. If this wasn't you, contact support.
+
+Best regards,
+Emily Davis
+Team Lead",Safe,17,113,0,False
+safe_294,Welcome,team@work.com,"Team meeting notes from today's discussion.
+
+Best regards,
+John Doe
+Manager",Safe,11,75,0,False
+safe_327,Welcome,team@work.com,"New comment on your document: Approved
+
+Reference: project-433",Safe,8,62,0,False
+safe_365,Invoice,support@legit.com,"Weekly status report is ready for review.
+
+Reference: review-593",Safe,9,64,0,False
+safe_136,Newsletter,noreply@service.com,"Hi, Here's the report you requested. Let me know if you need changes.",Safe,13,69,0,False
+phish_234,Notice,security@bank.com,Congratulations! You won a prize. Claim now: http://update-6193.top/login Payment  Update  Verify  ALERT!!! Account  ACT NOW! immediately,Phishing,16,137,1,True
+safe_388,Order Confirmation,john@company.com,"Your account balance is $6604
+
+Best regards,
+Sarah Smith
+Team Lead",Safe,11,66,0,False
+safe_247,Meeting Invitation,support@legit.com,"Weekly status report is ready for review.
+
+Best regards,
+John Doe
+Manager",Safe,12,73,0,False
+phish_480,URGENT,service@apple.com,Security Alert: Your password needs reset. Visit: http://sbq.account-5437.ga/login Verify  Payment  ACCOUNT!!! Prize  Free  ACT NOW! 48 hours,Phishing,17,141,1,True
+phish_442,Important,support@paypal.com,Your payment failed. Please update payment method: http://hcu.update-1639.top/login Free  Suspended  ACT NOW! 48 hours,Phishing,14,118,1,True
+phish_199,Security Alert,service@apple.com,FedEx: Package delivery failed. Track: http://bank-9256.top/login Prize  LIMITED TIME!!! ACCOUNT!!! Urgent  PASSWORD!!! ACT NOW! 48 hours,Phishing,16,137,1,True
+safe_467,Newsletter,manager@office.com,"Hi, Here's the report you requested. Let me know if you need changes.",Safe,13,69,0,False
+phish_386,Important,security@bank.com,FedEx: Package delivery failed. Track: http://update-2923.ga/login PASSWORD!!! URGENT!!! UPDATE!!! BANK!!!,Phishing,10,106,1,True
+phish_251,Action Required,noreply@irs.gov,Your payment failed. Please update payment method: http://tjc.update-8990.ga/login Limited  Click  WINNER!!! SECURITY!!!,Phishing,12,120,1,True
+phish_198,Action Required,noreply@irs.gov,Your Netflix subscription expired. Renew: http://tfe.account-6108.top/login ACCOUNT!!! Exclusive  Suspended  Verify  Limited time  Refund  ACT NOW! 24 hours,Phishing,17,156,1,True
+phish_51,Important,security@bank.com,FedEx: Package delivery failed. Track: http://gwp.secure-5934.top/login Suspended  Limited  Verify  Security  PRIZE!!! ACT NOW! 24 hours,Phishing,15,136,1,True
+safe_43,Monthly Report,noreply@service.com,"Your subscription has been renewed for another month.
+
+Best regards,
+John Doe
+Director",Safe,13,86,0,False
+safe_492,Meeting Invitation,team@work.com,Payment receipt for your recent transaction of $322.,Safe,8,52,0,False
+phish_29,Important,admin@amazon.com,Congratulations! You won a prize. Claim now: http://yde.secure-9352.xyz/login PAYMENT!!! EXCLUSIVE!!! VERIFY!!! Password ,Phishing,12,121,1,True
+phish_66,Important,help@microsoft.com,URGENT: Your account has been compromised. Click here to verify: http://ygc.account-5534.ml/login LIMITED!!! Prize  REFUND!!!,Phishing,14,125,1,True
+safe_173,Meeting Invitation,manager@office.com,Your subscription has been renewed for another month.,Safe,8,53,0,False
+safe_236,Meeting Invitation,team@work.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Best regards,
+Sarah Smith
+Manager",Safe,16,106,0,False
+phish_381,Notice,help@microsoft.com,Security Alert: Your password needs reset. Visit: http://bank-8251.tk/login CONGRATULATIONS!!! Winner  REFUND!!! FREE!!! CONFIRM!!! ACT NOW! immediately,Phishing,16,152,1,True
+safe_119,Meeting Invitation,team@work.com,"Project update: We're ahead of schedule!
+
+Reference: meeting-640",Safe,8,64,0,True
+phish_170,Security Alert,security@bank.com,Microsoft: Security update required. Download: http://hjr.secure-5870.xyz/login CONFIRM!!! Exclusive  Security  CLICK!!! Bank  FREE!!!,Phishing,12,134,1,True
+phish_289,Action Required,service@apple.com,Account suspended. Reactivate now: http://trh.update-4040.tk/login WINNER!!! LIMITED!!! ACT NOW! 48 hours,Phishing,11,105,1,True
+safe_86,Welcome,team@work.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+Mike Johnson
+Manager
+
+Reference: project-306",Safe,16,114,0,False
+safe_72,Newsletter,manager@office.com,"Your subscription has been renewed for another month.
+
+Best regards,
+Mike Johnson
+Manager",Safe,13,89,0,False
+safe_36,Welcome,manager@office.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+Mike Johnson
+Coordinator
+
+Reference: status-221",Safe,16,117,0,False
+safe_443,Order Confirmation,support@legit.com,"Monthly newsletter: Check out our latest updates and features.
+
+Best regards,
+Mike Johnson
+Manager",Safe,14,98,0,True
+phish_374,Action Required,service@apple.com,FedEx: Package delivery failed. Track: http://fwk.update-3376.ml/login CONGRATULATIONS!!! URGENT!!! UPDATE!!! ACT NOW! 48 hours,Phishing,13,127,1,True
+safe_198,Meeting Invitation,manager@office.com,"Your account balance is $4679
+
+Best regards,
+Emily Davis
+Director",Safe,10,65,0,False
+phish_96,Notice,support@paypal.com,PayPal: Your account limited. Resolve: http://omq.account-7537.tk/login Security  CONGRATULATIONS!!! CLICK!!! Limited  CONFIRM!!! Bank ,Phishing,12,135,1,True
+safe_272,Project Update,john@company.com,"Welcome to our service! Here's how to get started.
+
+Best regards,
+Emily Davis
+Director
+
+Reference: invoice-102",Safe,16,110,0,False
+safe_471,Order Confirmation,noreply@service.com,"Welcome to our service! Here's how to get started.
+
+Best regards,
+Mike Johnson
+Coordinator",Safe,14,90,0,False
+phish_72,Important,admin@amazon.com,URGENT: Your account has been compromised. Click here to verify: http://account-2910.xyz/login CLICK!!! Refund  Alert  FREE!!! Suspended  SECURITY!!!,Phishing,17,149,1,True
+safe_284,Meeting Invitation,support@legit.com,"Your subscription has been renewed for another month.
+
+Best regards,
+Sarah Smith
+Coordinator
+
+Reference: tracking-753",Safe,15,117,0,False
+phish_101,Security Alert,support@paypal.com,Security Alert: Your password needs reset. Visit: http://dcy.bank-9464.ga/login Limited  REFUND!!! UPDATE!!! Payment  Security  Password ,Phishing,14,137,1,True
+phish_2,Action Required,security@bank.com,Your payment failed. Please update payment method: http://lho.bank-4003.tk/login VERIFY!!! Prize  ACT NOW! 24 hours,Phishing,14,115,1,True
+phish_349,Important,admin@amazon.com,Your payment failed. Please update payment method: http://xvv.account-8711.tk/login Free  WINNER!!! Confirm ,Phishing,11,108,1,True
+safe_486,Monthly Report,info@business.com,"Your profile has been updated successfully.
+
+Best regards,
+Sarah Smith
+Manager
+
+Reference: status-248",Safe,13,101,0,True
+safe_484,Team Update,john@company.com,"Thank you for your purchase! Your invoice is attached.
+
+Reference: meeting-616",Safe,11,78,0,False
+safe_391,Meeting Invitation,noreply@service.com,"Project update: We're ahead of schedule!
+
+Reference: subscription-619",Safe,8,69,0,True
+safe_431,Welcome,team@work.com,"Your order #40823 has been shipped. Tracking number: ANPSQVMHRS
+
+Best regards,
+Mike Johnson
+Team Lead",Safe,15,101,0,False
+phish_233,Action Required,admin@amazon.com,Account suspended. Reactivate now: http://oyy.secure-5297.xyz/login Alert  BANK!!!,Phishing,7,82,1,True
+phish_210,Security Alert,support@paypal.com,PayPal: Your account limited. Resolve: http://szj.account-9941.ml/login Refund  SUSPENDED!!! Update  ACT NOW! immediately,Phishing,12,121,1,True
+safe_169,Team Update,support@legit.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Reference: purchase-156",Safe,13,96,0,False
+phish_137,Action Required,service@apple.com,Security Alert: Your password needs reset. Visit: http://update-4986.tk/login Limited  URGENT!!! Payment  LIMITED TIME!!! Bank  UPDATE!!! ACT NOW! 24 hours,Phishing,19,155,1,True
+phish_41,Action Required,security@bank.com,Microsoft: Security update required. Download: http://bank-4867.tk/login Prize  Account  Click ,Phishing,9,95,1,True
+safe_450,Team Update,noreply@service.com,"Weekly status report is ready for review.
+
+Best regards,
+Mike Johnson
+Coordinator",Safe,12,81,0,False
+safe_407,Project Update,support@legit.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Reference: meeting-483",Safe,13,95,0,False
+phish_19,Notice,service@apple.com,Your Apple ID has been locked. Unlock: http://lfk.verify-2956.tk/login LIMITED TIME!!! Confirm  VERIFY!!! UPDATE!!! ACT NOW! 48 hours,Phishing,17,133,1,True
+phish_20,Important,admin@amazon.com,Amazon: Order confirmation needed. Verify: http://vjc.secure-3845.top/login Suspended  VERIFY!!! REFUND!!! CONGRATULATIONS!!! PASSWORD!!! ACT NOW! immediately,Phishing,14,158,1,True
+safe_79,Welcome,team@work.com,"Your subscription has been renewed for another month.
+
+Reference: subscription-932",Safe,10,82,0,False
+safe_166,Monthly Report,info@business.com,Payment receipt for your recent transaction of $346.,Safe,8,52,0,False
+safe_463,Welcome,john@company.com,"Weekly status report is ready for review.
+
+Best regards,
+Emily Davis
+Director
+
+Reference: purchase-633",Safe,14,102,0,False
+safe_488,Meeting Invitation,john@company.com,Thank you for your purchase! Your invoice is attached.,Safe,9,54,0,False
+phish_478,Important,help@microsoft.com,Congratulations! You won a prize. Claim now: http://okj.account-3250.top/login VERIFY!!! WINNER!!! REFUND!!!,Phishing,11,108,1,True
+phish_286,Security Alert,admin@amazon.com,Account suspended. Reactivate now: http://update-5476.top/login Congratulations  Password  Payment  ACT NOW! 24 hours,Phishing,12,117,1,True
+safe_410,Team Update,team@work.com,"Your account balance is $7638
+
+Reference: project-899",Safe,7,53,0,False
+phish_225,URGENT,noreply@irs.gov,Congratulations! You won a prize. Claim now: http://account-5094.ml/login Free  CONGRATULATIONS!!! ACT NOW! 24 hours,Phishing,14,116,1,False
+phish_444,Action Required,security@bank.com,"Dear customer, we noticed unusual activity. Please update your info: http://jft.bank-3093.xyz/login Exclusive  LIMITED TIME!!! UPDATE!!! PRIZE!!!",Phishing,16,145,1,True
+phish_99,Security Alert,support@paypal.com,Your payment failed. Please update payment method: http://verify-7570.xyz/login ACCOUNT!!! Update  ACT NOW! 24 hours,Phishing,14,116,1,True
+safe_271,Team Update,manager@office.com,Welcome to our service! Here's how to get started.,Safe,9,50,0,False
+phish_270,URGENT,help@microsoft.com,PayPal: Your account limited. Resolve: http://ofv.bank-1083.top/login Verify  REFUND!!! Account  Limited  Congratulations  PASSWORD!!!,Phishing,12,134,1,True
+phish_306,URGENT,admin@amazon.com,IRS Notice: Tax refund pending. Click: http://itm.bank-9045.ml/login Click  WINNER!!! Free  Bank  Verify  ACT NOW! 24 hours,Phishing,16,123,1,True
+safe_163,Order Confirmation,team@work.com,"Hi, Here's the report you requested. Let me know if you need changes.",Safe,13,69,0,False
+safe_419,Order Confirmation,john@company.com,Payment receipt for your recent transaction of $187.,Safe,8,52,0,False
+phish_467,Notice,noreply@irs.gov,Your Netflix subscription expired. Renew: http://pab.bank-4940.ml/login ACCOUNT!!! Free  Suspended  VERIFY!!! Update  Urgent  ACT NOW! 48 hours,Phishing,16,143,1,True
+safe_476,Newsletter,support@legit.com,Monthly newsletter: Check out our latest updates and features.,Safe,9,62,0,True
+phish_220,URGENT,security@bank.com,Your Netflix subscription expired. Renew: http://fvf.bank-8646.xyz/login Security  Urgent  Exclusive  Password  CONFIRM!!!,Phishing,11,122,1,True
+safe_121,Meeting Invitation,john@company.com,"Welcome to our service! Here's how to get started.
+
+Reference: team-785",Safe,11,71,0,False
+safe_389,Monthly Report,manager@office.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+Emily Davis
+Team Lead
+
+Reference: balance-409",Safe,17,115,0,False
+phish_186,Notice,support@paypal.com,Congratulations! You won a prize. Claim now: http://update-6008.top/login Alert  Click  ACT NOW! 48 hours,Phishing,14,105,1,True
+safe_290,Team Update,team@work.com,"Your subscription has been renewed for another month.
+
+Best regards,
+Mike Johnson
+Manager",Safe,13,89,0,False
+phish_429,Security Alert,admin@amazon.com,Congratulations! You won a prize. Claim now: http://xrr.bank-9202.xyz/login ACCOUNT!!! Bank  LIMITED TIME!!! Free  Urgent  ACT NOW! 24 hours,Phishing,18,140,1,True
+safe_238,Monthly Report,manager@office.com,"Welcome to our service! Here's how to get started.
+
+Best regards,
+Emily Davis
+Team Lead",Safe,15,87,0,False
+safe_433,Order Confirmation,support@legit.com,"Thank you for your purchase! Your invoice is attached.
+
+Reference: comment-927",Safe,11,78,0,False
+phish_419,Notice,security@bank.com,IRS Notice: Tax refund pending. Click: http://vjt.update-1675.tk/login Account  Payment  Click  UPDATE!!! REFUND!!! Limited time ,Phishing,14,129,1,True
+phish_190,Notice,service@apple.com,Microsoft: Security update required. Download: http://update-2764.ml/login EXCLUSIVE!!! Prize  Payment  ACT NOW! 24 hours,Phishing,13,121,1,True
+safe_281,Monthly Report,john@company.com,"Weekly status report is ready for review.
+
+Reference: tracking-639",Safe,9,66,0,False
+phish_468,Security Alert,help@microsoft.com,Account suspended. Reactivate now: http://bank-1258.xyz/login CONFIRM!!! Exclusive  URGENT!!! Winner  Free  Refund  ACT NOW! immediately,Phishing,14,136,1,True
+safe_5,Invoice,john@company.com,Welcome to our service! Here's how to get started.,Safe,9,50,0,False
+phish_409,Notice,service@apple.com,FedEx: Package delivery failed. Track: http://account-4075.xyz/login Update  Payment ,Phishing,8,85,1,True
+phish_106,Security Alert,service@apple.com,Your bank account requires verification: http://vpx.bank-1879.xyz/login Click  SECURITY!!! BANK!!! EXCLUSIVE!!! VERIFY!!! ACT NOW! immediately,Phishing,14,142,1,True
+phish_40,Notice,admin@amazon.com,Microsoft: Security update required. Download: http://lqj.account-6876.ga/login Winner  CONGRATULATIONS!!! VERIFY!!! Refund  ACT NOW! 24 hours,Phishing,14,142,1,True
+phish_159,Notice,help@microsoft.com,Account suspended. Reactivate now: http://bank-2748.ga/login Security  UPDATE!!! LIMITED TIME!!! ALERT!!! ACT NOW! 48 hours,Phishing,14,123,1,True
+phish_32,Notice,help@microsoft.com,IRS Notice: Tax refund pending. Click: http://zzr.secure-5033.top/login Congratulations  SUSPENDED!!! UPDATE!!!,Phishing,10,111,1,True
+phish_293,Security Alert,admin@amazon.com,Microsoft: Security update required. Download: http://vrj.verify-2678.xyz/login Congratulations  Free  URGENT!!! BANK!!! ACT NOW! 48 hours,Phishing,14,138,1,True
+safe_317,Team Update,support@legit.com,Team meeting notes from today's discussion.,Safe,6,43,0,False
+safe_125,Invoice,manager@office.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Reference: report-135",Safe,13,94,0,False
+phish_443,Important,admin@amazon.com,Congratulations! You won a prize. Claim now: http://mya.secure-9901.ga/login BANK!!! Password  Refund  Congratulations ,Phishing,12,119,1,False
+phish_22,Important,noreply@irs.gov,Your Netflix subscription expired. Renew: http://dks.account-5474.ml/login Click  Congratulations  ACT NOW! 24 hours,Phishing,12,116,1,True
+safe_47,Monthly Report,john@company.com,New comment on your document: Please review,Safe,7,43,0,False
+phish_404,Important,security@bank.com,Your payment failed. Please update payment method: http://secure-8672.xyz/login REFUND!!! BANK!!! Exclusive  CONGRATULATIONS!!! VERIFY!!!,Phishing,13,137,1,True
+phish_164,URGENT,help@microsoft.com,Your bank account requires verification: http://secure-9573.ga/login URGENT!!! UPDATE!!! Click  ACT NOW! immediately,Phishing,12,116,1,True
+phish_128,Notice,admin@amazon.com,Account suspended. Reactivate now: http://secure-3392.ml/login Limited time  SECURITY!!! ACT NOW! 48 hours,Phishing,12,106,1,True
+safe_368,Invoice,john@company.com,"Payment receipt for your recent transaction of $254.
+
+Reference: comment-357",Safe,10,76,0,False
+phish_298,URGENT,support@paypal.com,Your Apple ID has been locked. Unlock: http://ivy.secure-5664.ga/login FREE!!! WINNER!!!,Phishing,10,88,1,False
+phish_342,Security Alert,admin@amazon.com,Account suspended. Reactivate now: http://secure-5516.ga/login Bank  Click  PAYMENT!!!,Phishing,8,86,1,True
+phish_209,URGENT,help@microsoft.com,"Dear customer, we noticed unusual activity. Please update your info: http://update-3790.ml/login CONGRATULATIONS!!! BANK!!! CONFIRM!!!",Phishing,14,134,1,True
+safe_495,Order Confirmation,support@legit.com,"Your profile has been updated successfully.
+
+Reference: purchase-161",Safe,8,68,0,True
+phish_435,Important,admin@amazon.com,Amazon: Order confirmation needed. Verify: http://secure-4016.xyz/login CONFIRM!!! Suspended  ACT NOW! immediately,Phishing,11,114,1,True
+phish_188,Action Required,noreply@irs.gov,Exclusive offer! Limited time: http://bank-3883.ml/login SECURITY!!! Payment  LIMITED TIME!!! Refund  Bank  ACCOUNT!!! ACT NOW! immediately,Phishing,15,139,1,True
+safe_364,Project Update,noreply@service.com,"Your account balance is $8840
+
+Reference: review-499",Safe,7,52,0,False
+phish_73,Important,security@bank.com,Your Netflix subscription expired. Renew: http://qed.secure-5647.top/login ACCOUNT!!! Bank ,Phishing,8,91,1,False
+phish_294,Important,support@paypal.com,"Dear customer, we noticed unusual activity. Please update your info: http://account-1853.ml/login Verify  Prize  Payment  CLICK!!! LIMITED TIME!!! Password ",Phishing,18,156,1,True
+safe_305,Project Update,noreply@service.com,"Thank you for your purchase! Your invoice is attached.
+
+Reference: subscription-771",Safe,11,83,0,False
+safe_192,Order Confirmation,john@company.com,Your profile has been updated successfully.,Safe,6,43,0,True
+phish_179,Action Required,noreply@irs.gov,Your Netflix subscription expired. Renew: http://qjv.bank-2721.tk/login Refund  SECURITY!!! WINNER!!! Verify  URGENT!!! CONFIRM!!!,Phishing,12,130,1,True
+safe_210,Team Update,john@company.com,"Monthly newsletter: Check out our latest updates and features.
+
+Reference: team-792",Safe,11,83,0,True
+phish_111,Action Required,help@microsoft.com,Amazon: Order confirmation needed. Verify: http://lcz.verify-3981.xyz/login Winner  SECURITY!!! CONFIRM!!! ACT NOW! 48 hours,Phishing,13,124,1,True
+safe_402,Monthly Report,team@work.com,Your order #56524 has been shipped. Tracking number: WFRKUWANOA,Safe,9,63,0,False
+safe_258,Invoice,manager@office.com,Your profile has been updated successfully.,Safe,6,43,0,True
+phish_60,URGENT,help@microsoft.com,Your Netflix subscription expired. Renew: http://bank-3403.tk/login SUSPENDED!!! PAYMENT!!! CONGRATULATIONS!!! Click ,Phishing,10,117,1,True
+phish_449,Action Required,security@bank.com,Your bank account requires verification: http://qdy.bank-8034.xyz/login Congratulations  LIMITED TIME!!! Urgent  UPDATE!!!,Phishing,11,122,1,True
+phish_331,Notice,service@apple.com,Congratulations! You won a prize. Claim now: http://pvh.verify-5715.xyz/login Refund  Password  Free  CLICK!!! Limited time ,Phishing,14,124,1,True
+safe_143,Meeting Invitation,noreply@service.com,"New comment on your document: Needs revision
+
+Best regards,
+John Doe
+Coordinator",Safe,12,80,0,False
+safe_411,Invoice,john@company.com,"Hi, Here's the report you requested. Let me know if you need changes.",Safe,13,69,0,False
+phish_140,URGENT,noreply@irs.gov,Amazon: Order confirmation needed. Verify: http://verify-8147.top/login Exclusive  Click  Limited  Confirm  PASSWORD!!! ACT NOW! 48 hours,Phishing,15,137,1,True
+safe_251,Team Update,manager@office.com,Your profile has been updated successfully.,Safe,6,43,0,True
+safe_124,Meeting Invitation,noreply@service.com,"New comment on your document: Looks good!
+
+Best regards,
+Sarah Smith
+Coordinator
+
+Reference: document-684",Safe,14,105,0,False
+safe_292,Monthly Report,manager@office.com,"Welcome to our service! Here's how to get started.
+
+Reference: purchase-284",Safe,11,75,0,False
+phish_21,Notice,noreply@irs.gov,Congratulations! You won a prize. Claim now: http://ejz.secure-1100.ml/login Free  Limited  BANK!!! ACT NOW! 24 hours,Phishing,15,117,1,False
+safe_35,Order Confirmation,team@work.com,Your order #50236 has been shipped. Tracking number: GYUB61CLB6,Safe,9,63,0,False
+safe_483,Invoice,info@business.com,"Payment receipt for your recent transaction of $422.
+
+Best regards,
+Emily Davis
+Coordinator",Safe,13,91,0,False
+safe_310,Newsletter,manager@office.com,"Hi, Here's the report you requested. Let me know if you need changes.",Safe,13,69,0,False
+phish_432,Action Required,security@bank.com,"Dear customer, we noticed unusual activity. Please update your info: http://jdh.update-5494.tk/login Limited time  Suspended  ACT NOW! 24 hours",Phishing,18,143,1,True
+phish_479,Notice,admin@amazon.com,Account suspended. Reactivate now: http://account-2896.xyz/login SUSPENDED!!! Click  ACT NOW! 48 hours,Phishing,11,102,1,True
+phish_235,Action Required,admin@amazon.com,Amazon: Order confirmation needed. Verify: http://verify-9367.top/login Alert  Account  ACT NOW! 48 hours,Phishing,12,105,1,True
+safe_451,Order Confirmation,team@work.com,"Your profile has been updated successfully.
+
+Best regards,
+Sarah Smith
+Director",Safe,11,79,0,True
+phish_356,Action Required,security@bank.com,"Dear customer, we noticed unusual activity. Please update your info: http://bxh.update-1223.top/login Refund  BANK!!! ACCOUNT!!! Confirm ",Phishing,15,137,1,True
+phish_337,Security Alert,admin@amazon.com,"Dear customer, we noticed unusual activity. Please update your info: http://account-7705.top/login CONFIRM!!! PRIZE!!! Free  Password  ACT NOW! immediately",Phishing,18,155,1,True
+safe_416,Order Confirmation,john@company.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+John Doe
+Team Lead
+
+Reference: review-113",Safe,17,111,0,False
+phish_136,Security Alert,admin@amazon.com,Exclusive offer! Limited time: http://eyf.verify-1394.ga/login LIMITED TIME!!! Suspended  CONGRATULATIONS!!! Refund  Winner  Confirm  ACT NOW! 24 hours,Phishing,16,151,1,True
+safe_202,Order Confirmation,noreply@service.com,"Hi, Here's the report you requested. Let me know if you need changes.",Safe,13,69,0,False
+safe_75,Welcome,info@business.com,"Hi, Here's the report you requested. Let me know if you need changes.",Safe,13,69,0,False
+phish_475,Action Required,admin@amazon.com,"Dear customer, we noticed unusual activity. Please update your info: http://account-7582.ml/login Congratulations  LIMITED TIME!!! PRIZE!!! ALERT!!! Confirm  Update ",Phishing,18,165,1,True
+safe_286,Project Update,support@legit.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Best regards,
+John Doe
+Director
+
+Reference: profile-645",Safe,20,126,0,False
+safe_61,Team Update,manager@office.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Best regards,
+Emily Davis
+Director",Safe,18,105,0,False
+safe_209,Welcome,info@business.com,"Welcome to our service! Here's how to get started.
+
+Best regards,
+Emily Davis
+Director
+
+Reference: order-335",Safe,16,108,0,False
+safe_229,Newsletter,noreply@service.com,"New comment on your document: Looks good!
+
+Reference: document-282",Safe,9,66,0,False
+safe_110,Invoice,support@legit.com,"Welcome to our service! Here's how to get started.
+
+Best regards,
+Mike Johnson
+Coordinator
+
+Reference: meeting-669",Safe,16,114,0,False
+safe_154,Order Confirmation,noreply@service.com,"Hi, Here's the report you requested. Let me know if you need changes.",Safe,13,69,0,False
+safe_449,Project Update,team@work.com,Your account balance is $5017,Safe,5,29,0,False
+phish_378,Notice,security@bank.com,FedEx: Package delivery failed. Track: http://secure-3606.ga/login LIMITED TIME!!! Payment  CLICK!!! ACT NOW! immediately,Phishing,13,121,1,True
+phish_428,Security Alert,support@paypal.com,"Dear customer, we noticed unusual activity. Please update your info: http://secure-2063.ga/login CONGRATULATIONS!!! PAYMENT!!! Free  Alert  CONFIRM!!! Security ",Phishing,17,160,1,True
+phish_90,Security Alert,service@apple.com,Your bank account requires verification: http://secure-1202.ga/login LIMITED!!! Payment  Winner  Congratulations  PASSWORD!!!,Phishing,11,125,1,False
+safe_149,Project Update,team@work.com,Your account balance is $2972,Safe,5,29,0,False
+phish_440,Notice,help@microsoft.com,Your Apple ID has been locked. Unlock: http://bank-9294.ml/login CONFIRM!!! Urgent  UPDATE!!! CONGRATULATIONS!!! Prize ,Phishing,13,119,1,True
+safe_184,Newsletter,noreply@service.com,Your order #63713 has been shipped. Tracking number: NBFI1PSWRT,Safe,9,63,0,False
+safe_179,Welcome,support@legit.com,"Hi, Here's the report you requested. Let me know if you need changes.",Safe,13,69,0,False
+safe_177,Monthly Report,info@business.com,"Monthly newsletter: Check out our latest updates and features.
+
+Reference: report-301",Safe,11,85,0,True
+safe_140,Newsletter,john@company.com,"Project update: We're ahead of schedule!
+
+Best regards,
+John Doe
+Director
+
+Reference: team-720",Safe,13,94,0,True
+phish_14,Action Required,admin@amazon.com,"Dear customer, we noticed unusual activity. Please update your info: http://verify-8540.tk/login Account  Update  LIMITED TIME!!! ACT NOW! immediately",Phishing,18,150,1,True
+safe_437,Newsletter,info@business.com,"Project update: We're ahead of schedule!
+
+Best regards,
+Sarah Smith
+Manager",Safe,11,75,0,True
+phish_430,Security Alert,noreply@irs.gov,Your Netflix subscription expired. Renew: http://account-9920.ml/login URGENT!!! Limited time  Update  Free  PASSWORD!!! ACT NOW! 48 hours,Phishing,16,138,1,True
+safe_104,Project Update,team@work.com,"Hi, Here's the report you requested. Let me know if you need changes.",Safe,13,69,0,False
+safe_363,Invoice,john@company.com,"Your subscription has been renewed for another month.
+
+Best regards,
+Mike Johnson
+Director
+
+Reference: purchase-453",Safe,15,115,0,False
+safe_101,Project Update,team@work.com,"Your password was successfully changed. If this wasn't you, contact support.
+
+Best regards,
+Mike Johnson
+Director
+
+Reference: review-865",Safe,18,136,0,False
+safe_331,Invoice,team@work.com,"Your account balance is $4477
+
+Reference: purchase-559",Safe,7,54,0,False
+safe_88,Project Update,support@legit.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Reference: order-235",Safe,13,93,0,False
+safe_190,Welcome,john@company.com,"New comment on your document: Approved
+
+Best regards,
+Emily Davis
+Coordinator
+
+Reference: balance-610",Safe,13,101,0,False
+phish_333,Action Required,noreply@irs.gov,Account suspended. Reactivate now: http://verify-2170.tk/login Confirm  UPDATE!!! ACT NOW! 48 hours,Phishing,11,99,1,True
+phish_37,Action Required,service@apple.com,Exclusive offer! Limited time: http://account-9156.tk/login SUSPENDED!!! Refund  ALERT!!!,Phishing,8,89,1,True
+safe_313,Welcome,manager@office.com,"Team meeting notes from today's discussion.
+
+Reference: review-752",Safe,8,66,0,False
+phish_30,URGENT,security@bank.com,Security Alert: Your password needs reset. Visit: http://dco.secure-9808.ml/login ALERT!!! SECURITY!!! PASSWORD!!! Exclusive  VERIFY!!! FREE!!!,Phishing,14,143,1,True
+safe_217,Welcome,john@company.com,"Monthly newsletter: Check out our latest updates and features.
+
+Best regards,
+John Doe
+Director
+
+Reference: subscription-793",Safe,16,124,0,True
+safe_102,Project Update,john@company.com,"Your account balance is $3145
+
+Best regards,
+Mike Johnson
+Team Lead
+
+Reference: purchase-964",Safe,13,92,0,False
+phish_370,Important,service@apple.com,URGENT: Your account has been compromised. Click here to verify: http://account-7973.tk/login Click  PRIZE!!! Urgent  ACT NOW! 48 hours,Phishing,18,135,1,True
+phish_116,Important,help@microsoft.com,Congratulations! You won a prize. Claim now: http://bank-7271.tk/login Payment  Limited  ACT NOW! 24 hours,Phishing,14,106,1,False
+safe_381,Monthly Report,john@company.com,"Weekly status report is ready for review.
+
+Best regards,
+Emily Davis
+Manager
+
+Reference: status-290",Safe,14,99,0,False
+safe_103,Order Confirmation,support@legit.com,Team meeting notes from today's discussion.,Safe,6,43,0,False
+phish_364,Action Required,help@microsoft.com,Exclusive offer! Limited time: http://ozt.update-3933.tk/login Security  EXCLUSIVE!!! LIMITED!!! Winner ,Phishing,9,104,1,True
+phish_231,Important,noreply@irs.gov,Congratulations! You won a prize. Claim now: http://update-2710.ga/login Bank  SUSPENDED!!! Urgent  Limited time  ACT NOW! immediately,Phishing,16,134,1,True
+phish_181,Important,security@bank.com,Account suspended. Reactivate now: http://eij.verify-5102.ml/login Prize  Refund  Click  Urgent  Password  ACT NOW! immediately,Phishing,13,127,1,True
+phish_345,Action Required,help@microsoft.com,PayPal: Your account limited. Resolve: http://nhz.verify-2093.ml/login Limited time  Confirm  FREE!!! Prize  LIMITED!!! ACT NOW! 24 hours,Phishing,16,137,1,True
+safe_387,Order Confirmation,noreply@service.com,New comment on your document: Looks good!,Safe,7,41,0,False
+safe_354,Order Confirmation,noreply@service.com,Your profile has been updated successfully.,Safe,6,43,0,True
+phish_237,Security Alert,support@paypal.com,Security Alert: Your password needs reset. Visit: http://xaf.verify-5682.xyz/login Payment  Suspended  Password  Exclusive  Bank  Limited time  ACT NOW! 48 hours,Phishing,19,161,1,True
+phish_245,URGENT,admin@amazon.com,Account suspended. Reactivate now: http://bank-2245.top/login Bank  Limited time  Confirm  ACT NOW! 24 hours,Phishing,13,108,1,True
+safe_341,Welcome,noreply@service.com,"Your password was successfully changed. If this wasn't you, contact support.
+
+Best regards,
+Sarah Smith
+Director",Safe,16,112,0,False
+phish_489,Action Required,noreply@irs.gov,Microsoft: Security update required. Download: http://uzj.verify-3416.tk/login LIMITED!!! Account  WINNER!!! PASSWORD!!!,Phishing,10,120,1,True
+safe_118,Monthly Report,john@company.com,"Thank you for your purchase! Your invoice is attached.
+
+Reference: tracking-773",Safe,11,79,0,False
+phish_81,Action Required,support@paypal.com,Amazon: Order confirmation needed. Verify: http://wrw.update-7581.top/login LIMITED!!! FREE!!! CLICK!!! ALERT!!! Limited time ,Phishing,12,126,1,True
+phish_206,Security Alert,security@bank.com,Your Netflix subscription expired. Renew: http://account-3376.ga/login ACCOUNT!!! Prize  Security  CLICK!!!,Phishing,10,107,1,True
+phish_152,Security Alert,help@microsoft.com,Account suspended. Reactivate now: http://fuy.bank-8618.tk/login EXCLUSIVE!!! Urgent  ACT NOW! 24 hours,Phishing,11,103,1,True
+phish_134,URGENT,noreply@irs.gov,Your bank account requires verification: http://bank-9915.xyz/login Update  Free ,Phishing,8,81,1,True
+phish_109,URGENT,noreply@irs.gov,Your Apple ID has been locked. Unlock: http://update-6363.tk/login Alert  Refund  CLICK!!! SUSPENDED!!!,Phishing,12,103,1,True
+phish_338,URGENT,admin@amazon.com,Exclusive offer! Limited time: http://auj.bank-6688.ga/login CLICK!!! Refund  Exclusive  Congratulations  ACT NOW! immediately,Phishing,12,126,1,True
+phish_177,URGENT,service@apple.com,Exclusive offer! Limited time: http://verify-8467.top/login Prize  Congratulations  EXCLUSIVE!!! ACT NOW! 48 hours,Phishing,12,114,1,True
+phish_127,Action Required,admin@amazon.com,Congratulations! You won a prize. Claim now: http://bank-8092.top/login Payment  BANK!!! Limited time  PRIZE!!! VERIFY!!! WINNER!!!,Phishing,15,131,1,True
+safe_489,Newsletter,noreply@service.com,"Your order #16301 has been shipped. Tracking number: GK5HY4Y6UM
+
+Reference: project-948",Safe,11,87,0,False
+safe_182,Monthly Report,noreply@service.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+Emily Davis
+Director
+
+Reference: order-438",Safe,16,112,0,False
+phish_216,Action Required,admin@amazon.com,Your bank account requires verification: http://nps.secure-5922.top/login Security  CONGRATULATIONS!!! PASSWORD!!!,Phishing,9,114,1,True
+safe_249,Welcome,support@legit.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+Sarah Smith
+Team Lead",Safe,15,91,0,False
+phish_28,URGENT,admin@amazon.com,Your payment failed. Please update payment method: http://update-7104.top/login SUSPENDED!!! CONGRATULATIONS!!! Winner  PASSWORD!!!,Phishing,12,131,1,True
+safe_435,Project Update,manager@office.com,"Team meeting notes from today's discussion.
+
+Reference: comment-968",Safe,8,67,0,False
+phish_437,URGENT,help@microsoft.com,Congratulations! You won a prize. Claim now: http://rwl.bank-7527.tk/login PASSWORD!!! VERIFY!!! ACT NOW! immediately,Phishing,13,117,1,True
+safe_252,Monthly Report,team@work.com,"Your password was successfully changed. If this wasn't you, contact support.
+
+Best regards,
+Mike Johnson
+Team Lead",Safe,17,114,0,False
+safe_478,Team Update,noreply@service.com,"Weekly status report is ready for review.
+
+Best regards,
+Mike Johnson
+Director",Safe,12,78,0,False
+safe_460,Meeting Invitation,team@work.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Reference: team-444",Safe,13,92,0,False
+safe_336,Welcome,info@business.com,"Welcome to our service! Here's how to get started.
+
+Reference: order-879",Safe,11,72,0,False
+safe_191,Welcome,manager@office.com,"Monthly newsletter: Check out our latest updates and features.
+
+Best regards,
+Sarah Smith
+Coordinator",Safe,14,101,0,True
+safe_84,Order Confirmation,info@business.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Best regards,
+Mike Johnson
+Director
+
+Reference: order-741",Safe,18,130,0,False
+safe_206,Meeting Invitation,info@business.com,"Welcome to our service! Here's how to get started.
+
+Best regards,
+Sarah Smith
+Coordinator
+
+Reference: review-564",Safe,16,112,0,False
+safe_325,Newsletter,team@work.com,"Your password was successfully changed. If this wasn't you, contact support.",Safe,11,76,0,False
+phish_495,URGENT,security@bank.com,IRS Notice: Tax refund pending. Click: http://update-4386.xyz/login EXCLUSIVE!!! PASSWORD!!! ACT NOW! 48 hours,Phishing,13,110,1,True
+phish_65,Security Alert,support@paypal.com,IRS Notice: Tax refund pending. Click: http://rry.account-3651.ml/login Free  Limited  Account  Confirm ,Phishing,11,104,1,True
+safe_219,Project Update,info@business.com,"Hi, Here's the report you requested. Let me know if you need changes.",Safe,13,69,0,False
+safe_151,Monthly Report,manager@office.com,"Welcome to our service! Here's how to get started.
+
+Best regards,
+Sarah Smith
+Coordinator
+
+Reference: order-709",Safe,16,111,0,False
+phish_258,Notice,admin@amazon.com,Exclusive offer! Limited time: http://uzz.secure-5934.tk/login Prize  Suspended  Verify  Update  PASSWORD!!! ACT NOW! immediately,Phishing,13,129,1,True
+safe_432,Invoice,support@legit.com,"Welcome to our service! Here's how to get started.
+
+Best regards,
+John Doe
+Coordinator
+
+Reference: update-457",Safe,16,109,0,True
+safe_477,Order Confirmation,manager@office.com,"Payment receipt for your recent transaction of $239.
+
+Best regards,
+Sarah Smith
+Director",Safe,13,88,0,False
+phish_383,Important,security@bank.com,URGENT: Your account has been compromised. Click here to verify: http://jss.secure-7094.ga/login LIMITED TIME!!! LIMITED!!! Bank  PASSWORD!!!,Phishing,16,141,1,True
+safe_454,Meeting Invitation,support@legit.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+John Doe
+Manager",Safe,14,86,0,False
+safe_490,Invoice,team@work.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Reference: invoice-935",Safe,13,95,0,False
+phish_315,Important,admin@amazon.com,Amazon: Order confirmation needed. Verify: http://verify-2263.ml/login Free  CONGRATULATIONS!!! Verify  Update  ACT NOW! immediately,Phishing,13,132,1,True
+safe_429,Team Update,team@work.com,"Payment receipt for your recent transaction of $459.
+
+Best regards,
+Emily Davis
+Team Lead",Safe,14,89,0,False
+safe_231,Welcome,noreply@service.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Best regards,
+John Doe
+Team Lead",Safe,19,103,0,False
+phish_133,Security Alert,noreply@irs.gov,IRS Notice: Tax refund pending. Click: http://verify-4360.ml/login Password  LIMITED!!! Security  ACT NOW! immediately,Phishing,13,118,1,True
+phish_86,URGENT,service@apple.com,Your Apple ID has been locked. Unlock: http://gth.bank-6458.top/login UPDATE!!! REFUND!!! Suspended ,Phishing,11,100,1,True
+phish_445,Action Required,help@microsoft.com,PayPal: Your account limited. Resolve: http://secure-6880.ga/login Limited time  WINNER!!! ACT NOW! 24 hours,Phishing,13,108,1,False
+phish_297,Action Required,admin@amazon.com,Exclusive offer! Limited time: http://qrv.bank-6604.ml/login ACCOUNT!!! EXCLUSIVE!!! UPDATE!!! Refund  SECURITY!!! ACT NOW! immediately,Phishing,13,135,1,True
+phish_344,Action Required,security@bank.com,Security Alert: Your password needs reset. Visit: http://ndv.bank-6711.top/login Verify  CONGRATULATIONS!!! Click  ACT NOW! 48 hours,Phishing,15,132,1,True
+phish_314,Security Alert,noreply@irs.gov,Amazon: Order confirmation needed. Verify: http://pbk.bank-2484.xyz/login REFUND!!! Prize  Winner  FREE!!! VERIFY!!! LIMITED TIME!!! ACT NOW! immediately,Phishing,16,153,1,True
+safe_178,Team Update,team@work.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+John Doe
+Team Lead",Safe,15,88,0,False
+safe_188,Newsletter,manager@office.com,Project update: We're ahead of schedule!,Safe,6,40,0,True
+phish_312,Notice,help@microsoft.com,Microsoft: Security update required. Download: http://fck.bank-3095.ga/login Free  Payment  Password  ACT NOW! 24 hours,Phishing,13,119,1,True
+phish_15,URGENT,service@apple.com,Microsoft: Security update required. Download: http://verify-1467.xyz/login Update  PAYMENT!!! Security  Limited time  Click  Winner ,Phishing,13,133,1,True
+safe_259,Newsletter,noreply@service.com,"Your profile has been updated successfully.
+
+Best regards,
+John Doe
+Manager",Safe,11,75,0,True
+safe_285,Project Update,john@company.com,"Your password was successfully changed. If this wasn't you, contact support.
+
+Reference: update-369",Safe,13,99,0,True
+safe_428,Newsletter,john@company.com,"Your profile has been updated successfully.
+
+Reference: balance-732",Safe,8,67,0,True
+phish_191,Important,service@apple.com,Your bank account requires verification: http://secure-9179.ga/login Password  Free  Suspended  ACT NOW! immediately,Phishing,12,116,1,True
+safe_367,Project Update,support@legit.com,"New comment on your document: Approved
+
+Best regards,
+Sarah Smith
+Manager
+
+Reference: subscription-121",Safe,13,102,0,False
+phish_453,Notice,security@bank.com,FedEx: Package delivery failed. Track: http://rst.account-5252.xyz/login Password  Urgent  REFUND!!! Bank  ACT NOW! 24 hours,Phishing,14,124,1,True
+safe_23,Invoice,team@work.com,"Your subscription has been renewed for another month.
+
+Reference: meeting-680",Safe,10,77,0,False
+safe_380,Invoice,info@business.com,"Project update: We're ahead of schedule!
+
+Reference: status-315",Safe,8,63,0,True
+phish_455,Notice,support@paypal.com,Congratulations! You won a prize. Claim now: http://account-2325.ml/login Update  BANK!!! Account  ACT NOW! immediately,Phishing,14,119,1,True
+phish_269,Important,support@paypal.com,Exclusive offer! Limited time: http://bank-6819.tk/login SECURITY!!! Suspended  URGENT!!! ACT NOW! 48 hours,Phishing,12,107,1,True
+phish_405,URGENT,help@microsoft.com,Microsoft: Security update required. Download: http://gau.secure-8319.ga/login REFUND!!! Update  Suspended  Congratulations  Winner ,Phishing,11,132,1,True
+phish_17,Important,admin@amazon.com,Your Netflix subscription expired. Renew: http://dbg.verify-7663.ml/login Bank  CLICK!!!,Phishing,8,88,1,True
+phish_132,Important,help@microsoft.com,Your Netflix subscription expired. Renew: http://fgu.secure-7410.ga/login FREE!!! LIMITED!!! Update  URGENT!!! ACCOUNT!!! LIMITED TIME!!!,Phishing,13,137,1,True
+phish_394,Important,security@bank.com,Your payment failed. Please update payment method: http://vdd.account-6814.top/login Congratulations  Limited time  PASSWORD!!! ACT NOW! 48 hours,Phishing,16,145,1,True
+phish_319,Security Alert,support@paypal.com,FedEx: Package delivery failed. Track: http://verify-4075.top/login ACCOUNT!!! Suspended  Password  Urgent  SECURITY!!! Update ,Phishing,12,127,1,True
+phish_49,Important,help@microsoft.com,Congratulations! You won a prize. Claim now: http://verify-7777.ml/login Password  CONGRATULATIONS!!! EXCLUSIVE!!! Security  ACT NOW! 48 hours,Phishing,16,142,1,True
+safe_175,Monthly Report,john@company.com,"Weekly status report is ready for review.
+
+Best regards,
+Emily Davis
+Director
+
+Reference: invoice-308",Safe,14,101,0,False
+safe_479,Order Confirmation,john@company.com,Thank you for your purchase! Your invoice is attached.,Safe,9,54,0,False
+safe_461,Order Confirmation,info@business.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Best regards,
+John Doe
+Director",Safe,18,102,0,False
+safe_277,Meeting Invitation,support@legit.com,Your profile has been updated successfully.,Safe,6,43,0,True
+phish_459,Notice,support@paypal.com,Your bank account requires verification: http://pib.secure-9238.xyz/login Click  Verify ,Phishing,8,88,1,True
+safe_314,Invoice,info@business.com,Weekly status report is ready for review.,Safe,7,41,0,False
+phish_74,Important,security@bank.com,Congratulations! You won a prize. Claim now: http://update-1227.ga/login Payment  CONGRATULATIONS!!! Winner  Exclusive  REFUND!!! ACT NOW! immediately,Phishing,16,150,1,True
+phish_497,Important,noreply@irs.gov,Account suspended. Reactivate now: http://wey.secure-8090.top/login VERIFY!!! Congratulations  Alert  ACT NOW! immediately,Phishing,11,122,1,True
+safe_215,Invoice,team@work.com,Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.,Safe,11,71,0,False
+safe_49,Project Update,support@legit.com,"Your order #61829 has been shipped. Tracking number: TWSRM9EQGD
+
+Best regards,
+John Doe
+Coordinator
+
+Reference: profile-868",Safe,16,123,0,False
+safe_445,Invoice,info@business.com,"Payment receipt for your recent transaction of $208.
+
+Best regards,
+Emily Davis
+Coordinator
+
+Reference: meeting-806",Safe,15,115,0,False
+safe_120,Monthly Report,john@company.com,"Hi, Here's the report you requested. Let me know if you need changes.",Safe,13,69,0,False
+phish_48,URGENT,support@paypal.com,Security Alert: Your password needs reset. Visit: http://verify-4064.ga/login Password  PRIZE!!! ACCOUNT!!! LIMITED TIME!!! WINNER!!! Security  ACT NOW! 48 hours,Phishing,19,161,1,True
+phish_39,Notice,noreply@irs.gov,IRS Notice: Tax refund pending. Click: http://pck.update-6029.ga/login PASSWORD!!! Suspended  Congratulations  PAYMENT!!! ACT NOW! 48 hours,Phishing,15,139,1,True
+phish_202,Important,help@microsoft.com,"Dear customer, we noticed unusual activity. Please update your info: http://mvd.bank-8368.top/login Account  BANK!!! Prize  PAYMENT!!! Winner ",Phishing,16,142,1,True
+safe_193,Order Confirmation,noreply@service.com,"Hi, Here's the report you requested. Let me know if you need changes.",Safe,13,69,0,False
+safe_52,Order Confirmation,team@work.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Reference: update-344",Safe,13,94,0,True
+safe_248,Team Update,info@business.com,"Welcome to our service! Here's how to get started.
+
+Reference: status-350",Safe,11,73,0,False
+safe_297,Newsletter,noreply@service.com,"Welcome to our service! Here's how to get started.
+
+Best regards,
+Emily Davis
+Coordinator",Safe,14,89,0,False
+phish_485,Action Required,service@apple.com,Your bank account requires verification: http://verify-9262.tk/login Winner  EXCLUSIVE!!! PRIZE!!! ACT NOW! 24 hours,Phishing,13,116,1,True
+phish_175,Action Required,noreply@irs.gov,IRS Notice: Tax refund pending. Click: http://wps.update-4882.xyz/login Winner  LIMITED TIME!!! Update  ACT NOW! 24 hours,Phishing,15,121,1,True
+safe_147,Newsletter,manager@office.com,"Payment receipt for your recent transaction of $416.
+
+Reference: invoice-754",Safe,10,76,0,False
+phish_92,Action Required,noreply@irs.gov,Congratulations! You won a prize. Claim now: http://jpr.verify-4720.ga/login Bank  PRIZE!!! CLICK!!! CONGRATULATIONS!!! ACT NOW! immediately,Phishing,15,140,1,True
+safe_302,Project Update,john@company.com,"Team meeting notes from today's discussion.
+
+Best regards,
+Mike Johnson
+Coordinator
+
+Reference: subscription-680",Safe,13,112,0,False
+phish_272,Action Required,help@microsoft.com,"Dear customer, we noticed unusual activity. Please update your info: http://ykn.secure-8470.tk/login EXCLUSIVE!!! Urgent  Winner  Security ",Phishing,15,139,1,True
+phish_192,Notice,help@microsoft.com,Exclusive offer! Limited time: http://fmn.update-8449.ga/login Congratulations  Password  LIMITED TIME!!!,Phishing,9,105,1,True
+safe_369,Project Update,info@business.com,Thank you for your purchase! Your invoice is attached.,Safe,9,54,0,False
+safe_172,Team Update,noreply@service.com,"Welcome to our service! Here's how to get started.
+
+Best regards,
+John Doe
+Team Lead",Safe,15,84,0,False
+safe_59,Invoice,noreply@service.com,"Team meeting notes from today's discussion.
+
+Reference: review-632",Safe,8,66,0,False
+phish_366,Important,admin@amazon.com,PayPal: Your account limited. Resolve: http://vhc.verify-1617.tk/login CONGRATULATIONS!!! VERIFY!!! Account ,Phishing,9,108,1,True
+phish_107,Action Required,help@microsoft.com,URGENT: Your account has been compromised. Click here to verify: http://account-6952.top/login Congratulations  BANK!!! EXCLUSIVE!!! Alert  Password  Winner ,Phishing,17,157,1,True
+phish_408,URGENT,admin@amazon.com,Your Apple ID has been locked. Unlock: http://vsz.bank-5838.top/login Payment  PASSWORD!!! Bank  Confirm  FREE!!! VERIFY!!! ACT NOW! immediately,Phishing,17,144,1,True
+phish_363,URGENT,admin@amazon.com,Congratulations! You won a prize. Claim now: http://gtr.verify-4050.ga/login Free  Security  Congratulations  ACT NOW! immediately,Phishing,14,130,1,True
+phish_424,URGENT,security@bank.com,Amazon: Order confirmation needed. Verify: http://qev.update-4803.ml/login CONGRATULATIONS!!! Suspended  UPDATE!!! Account  FREE!!! EXCLUSIVE!!! ACT NOW! 48 hours,Phishing,16,162,1,True
+safe_158,Invoice,john@company.com,"Weekly status report is ready for review.
+
+Reference: review-580",Safe,9,64,0,False
+safe_418,Meeting Invitation,manager@office.com,"Your order #67465 has been shipped. Tracking number: 622XHXCO5O
+
+Best regards,
+Sarah Smith
+Manager
+
+Reference: balance-315",Safe,16,122,0,False
+safe_28,Invoice,info@business.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Best regards,
+Emily Davis
+Director
+
+Reference: balance-827",Safe,18,131,0,False
+safe_264,Order Confirmation,support@legit.com,Thank you for your purchase! Your invoice is attached.,Safe,9,54,0,False
+safe_318,Invoice,support@legit.com,"Thank you for your purchase! Your invoice is attached.
+
+Reference: invoice-250",Safe,11,78,0,False
+safe_22,Team Update,support@legit.com,Weekly status report is ready for review.,Safe,7,41,0,False
+phish_472,Security Alert,noreply@irs.gov,Congratulations! You won a prize. Claim now: http://account-3966.tk/login Suspended  Security  REFUND!!! ACCOUNT!!!,Phishing,12,115,1,True
+safe_307,Welcome,manager@office.com,"Monthly newsletter: Check out our latest updates and features.
+
+Best regards,
+Emily Davis
+Team Lead
+
+Reference: meeting-269",Safe,17,123,0,True
+phish_488,Action Required,help@microsoft.com,Your bank account requires verification: http://account-5365.ml/login LIMITED!!! CONFIRM!!! Prize  Suspended ,Phishing,10,109,1,True
+phish_421,Action Required,noreply@irs.gov,Your Netflix subscription expired. Renew: http://verify-7956.ml/login SUSPENDED!!! PAYMENT!!! Update  PRIZE!!!,Phishing,10,110,1,True
+safe_413,Welcome,team@work.com,"Team meeting notes from today's discussion.
+
+Reference: report-133",Safe,8,66,0,False
+safe_274,Monthly Report,john@company.com,"Your profile has been updated successfully.
+
+Best regards,
+Sarah Smith
+Team Lead",Safe,12,80,0,True
+safe_266,Order Confirmation,manager@office.com,"Your account balance is $6525
+
+Best regards,
+John Doe
+Manager
+
+Reference: review-483",Safe,12,84,0,False
+safe_41,Invoice,support@legit.com,"Your account balance is $5937
+
+Best regards,
+Sarah Smith
+Team Lead",Safe,11,66,0,False
+safe_233,Monthly Report,support@legit.com,Your account balance is $6490,Safe,5,29,0,False
+phish_401,Important,help@microsoft.com,Your Netflix subscription expired. Renew: http://update-1616.ml/login Free  ACCOUNT!!! Prize  ACT NOW! 24 hours,Phishing,13,111,1,True
+phish_174,Notice,service@apple.com,"Dear customer, we noticed unusual activity. Please update your info: http://update-2002.xyz/login Limited  Password  VERIFY!!! UPDATE!!! ACT NOW! 48 hours",Phishing,19,154,1,True
+safe_372,Order Confirmation,noreply@service.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Reference: comment-597",Safe,15,93,0,False
+safe_371,Monthly Report,john@company.com,"Team meeting notes from today's discussion.
+
+Best regards,
+Sarah Smith
+Manager",Safe,11,78,0,False
+safe_27,Welcome,manager@office.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+Emily Davis
+Coordinator
+
+Reference: comment-751",Safe,16,117,0,False
+safe_279,Invoice,john@company.com,"Your account balance is $2462
+
+Reference: balance-326",Safe,7,53,0,False
+safe_250,Welcome,noreply@service.com,"Your subscription has been renewed for another month.
+
+Reference: receipt-407",Safe,10,77,0,False
+safe_214,Monthly Report,info@business.com,Payment receipt for your recent transaction of $451.,Safe,8,52,0,False
+safe_280,Project Update,john@company.com,Welcome to our service! Here's how to get started.,Safe,9,50,0,False
+phish_403,URGENT,service@apple.com,Exclusive offer! Limited time: http://bank-7500.ml/login Security  UPDATE!!! Congratulations  Winner ,Phishing,9,101,1,True
+safe_14,Project Update,john@company.com,"Your account balance is $6743
+
+Best regards,
+Emily Davis
+Director",Safe,10,65,0,False
+phish_183,URGENT,service@apple.com,Your payment failed. Please update payment method: http://secure-9770.ga/login Verify  PASSWORD!!! URGENT!!! UPDATE!!! ACT NOW! 24 hours,Phishing,16,136,1,True
+safe_135,Monthly Report,manager@office.com,"Your account balance is $6903
+
+Reference: invoice-452",Safe,7,53,0,False
+phish_400,URGENT,noreply@irs.gov,Your Netflix subscription expired. Renew: http://secure-4627.ml/login EXCLUSIVE!!! ACCOUNT!!! SECURITY!!! Free  LIMITED TIME!!! Payment ,Phishing,13,136,1,True
+safe_409,Project Update,team@work.com,Your order #17312 has been shipped. Tracking number: M00NNCS7RW,Safe,9,63,0,False
+phish_376,URGENT,admin@amazon.com,FedEx: Package delivery failed. Track: http://mgu.update-4498.tk/login WINNER!!! URGENT!!! ACT NOW! immediately,Phishing,11,111,1,True
+safe_384,Welcome,team@work.com,"Your password was successfully changed. If this wasn't you, contact support.
+
+Best regards,
+Sarah Smith
+Team Lead
+
+Reference: comment-985",Safe,19,137,0,False
+phish_456,URGENT,service@apple.com,FedEx: Package delivery failed. Track: http://mvf.update-8397.top/login Verify  Prize ,Phishing,8,86,1,True
+safe_189,Newsletter,info@business.com,"New comment on your document: Looks good!
+
+Best regards,
+Sarah Smith
+Director
+
+Reference: document-569",Safe,14,102,0,False
+safe_333,Order Confirmation,team@work.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Reference: meeting-126",Safe,13,95,0,False
+phish_311,URGENT,help@microsoft.com,Your Netflix subscription expired. Renew: http://spa.update-4519.top/login FREE!!! Account  WINNER!!! Congratulations  ALERT!!! ACT NOW! 24 hours,Phishing,15,145,1,True
+safe_400,Meeting Invitation,support@legit.com,"Team meeting notes from today's discussion.
+
+Reference: receipt-821",Safe,8,67,0,False
+phish_343,Important,service@apple.com,Exclusive offer! Limited time: http://mpn.bank-5587.ml/login Exclusive  CLICK!!! ACT NOW! 24 hours,Phishing,11,98,1,True
+safe_397,Newsletter,support@legit.com,"Payment receipt for your recent transaction of $24.
+
+Best regards,
+Emily Davis
+Coordinator
+
+Reference: profile-648",Safe,15,114,0,False
+safe_500,Meeting Invitation,noreply@service.com,Welcome to our service! Here's how to get started.,Safe,9,50,0,False
+phish_142,URGENT,security@bank.com,Your Netflix subscription expired. Renew: http://update-4062.tk/login Password  REFUND!!! Exclusive  Suspended  FREE!!! VERIFY!!!,Phishing,12,129,1,True
+safe_228,Project Update,john@company.com,"Welcome to our service! Here's how to get started.
+
+Best regards,
+Mike Johnson
+Manager
+
+Reference: project-796",Safe,16,110,0,False
+safe_456,Project Update,john@company.com,Monthly newsletter: Check out our latest updates and features.,Safe,9,62,0,True
+phish_451,Security Alert,help@microsoft.com,IRS Notice: Tax refund pending. Click: http://verify-9368.ga/login REFUND!!! Limited  CONFIRM!!! ACT NOW! 48 hours,Phishing,14,114,1,True
+phish_70,URGENT,admin@amazon.com,URGENT: Your account has been compromised. Click here to verify: http://uka.bank-7302.ga/login LIMITED TIME!!! BANK!!! Password  Security  URGENT!!! ACT NOW! 24 hours,Phishing,21,166,1,True
+phish_275,URGENT,security@bank.com,Security Alert: Your password needs reset. Visit: http://verify-3622.ml/login CLICK!!! Update  ACT NOW! 48 hours,Phishing,14,112,1,True
+safe_89,Newsletter,info@business.com,"Welcome to our service! Here's how to get started.
+
+Best regards,
+Emily Davis
+Team Lead",Safe,15,87,0,False
+safe_227,Order Confirmation,john@company.com,"Your order #11689 has been shipped. Tracking number: 3V3CNXKW10
+
+Best regards,
+Emily Davis
+Manager
+
+Reference: balance-418",Safe,16,122,0,False
+safe_427,Project Update,support@legit.com,"Your subscription has been renewed for another month.
+
+Best regards,
+Emily Davis
+Manager",Safe,13,88,0,False
+phish_447,Important,admin@amazon.com,URGENT: Your account has been compromised. Click here to verify: http://kaw.secure-7178.ml/login Bank  WINNER!!! Free ,Phishing,14,118,1,True
+phish_434,Security Alert,support@paypal.com,Your payment failed. Please update payment method: http://verify-3073.tk/login LIMITED TIME!!! Verify  Winner  ACCOUNT!!! URGENT!!!,Phishing,14,131,1,True
+phish_268,Notice,support@paypal.com,"Dear customer, we noticed unusual activity. Please update your info: http://ewo.update-2609.xyz/login ALERT!!! Free  Confirm  Exclusive ",Phishing,15,136,1,True
+phish_239,Action Required,security@bank.com,Your Apple ID has been locked. Unlock: http://ntd.bank-5744.ml/login Free  URGENT!!! Click  WINNER!!! SECURITY!!! ACT NOW! immediately,Phishing,16,134,1,True
+phish_484,Action Required,security@bank.com,Exclusive offer! Limited time: http://secure-8914.top/login CONGRATULATIONS!!! Click  Security  Free  Winner  ACT NOW! immediately,Phishing,13,130,1,True
+phish_304,Security Alert,help@microsoft.com,Your payment failed. Please update payment method: http://rsa.secure-3214.ml/login ALERT!!! PRIZE!!! ACT NOW! 24 hours,Phishing,14,118,1,True
+safe_58,Monthly Report,support@legit.com,"Your password was successfully changed. If this wasn't you, contact support.",Safe,11,76,0,False
+phish_46,Important,support@paypal.com,IRS Notice: Tax refund pending. Click: http://secure-5450.ml/login VERIFY!!! Account  Refund  UPDATE!!! LIMITED TIME!!! ACT NOW! 24 hours,Phishing,17,137,1,True
+phish_310,URGENT,support@paypal.com,Your payment failed. Please update payment method: http://bank-4045.tk/login Limited  Payment  ACT NOW! immediately,Phishing,13,115,1,True
+safe_350,Monthly Report,john@company.com,Thank you for your purchase! Your invoice is attached.,Safe,9,54,0,False
+phish_309,Notice,security@bank.com,Amazon: Order confirmation needed. Verify: http://kyc.verify-6189.ga/login Payment  Free ,Phishing,8,89,1,True
+safe_18,Meeting Invitation,team@work.com,"Welcome to our service! Here's how to get started.
+
+Reference: report-696",Safe,11,73,0,False
+phish_341,Action Required,noreply@irs.gov,Account suspended. Reactivate now: http://secure-3806.tk/login Click  Password  PRIZE!!! ACT NOW! 24 hours,Phishing,12,106,1,True
+safe_499,Project Update,john@company.com,Thank you for your purchase! Your invoice is attached.,Safe,9,54,0,False
+safe_362,Monthly Report,team@work.com,"New comment on your document: Looks good!
+
+Best regards,
+Emily Davis
+Director",Safe,12,77,0,False
+phish_500,Security Alert,admin@amazon.com,IRS Notice: Tax refund pending. Click: http://bank-6032.xyz/login Update  VERIFY!!! PRIZE!!! LIMITED!!! Congratulations  Refund  ACT NOW! immediately,Phishing,16,149,1,True
+safe_265,Project Update,manager@office.com,"Your account balance is $4262
+
+Best regards,
+Sarah Smith
+Team Lead",Safe,11,66,0,False
+safe_176,Team Update,support@legit.com,"Thank you for your purchase! Your invoice is attached.
+
+Reference: review-599",Safe,11,77,0,False
+safe_56,Newsletter,noreply@service.com,"Welcome to our service! Here's how to get started.
+
+Reference: project-439",Safe,11,74,0,False
+safe_170,Invoice,manager@office.com,"Payment receipt for your recent transaction of $414.
+
+Best regards,
+Mike Johnson
+Team Lead
+
+Reference: comment-609",Safe,16,114,0,False
+phish_302,Important,service@apple.com,PayPal: Your account limited. Resolve: http://fdt.verify-8516.tk/login SECURITY!!! Click  Confirm ,Phishing,9,98,1,True
+phish_460,Action Required,admin@amazon.com,Account suspended. Reactivate now: http://update-7242.top/login Prize  Security  Click ,Phishing,8,87,1,True
+phish_75,Important,noreply@irs.gov,FedEx: Package delivery failed. Track: http://taz.bank-9708.top/login SECURITY!!! ACCOUNT!!! Verify  Congratulations  Limited time  EXCLUSIVE!!! ACT NOW! 24 hours,Phishing,17,162,1,True
+safe_77,Newsletter,info@business.com,"New comment on your document: Approved
+
+Best regards,
+Mike Johnson
+Team Lead
+
+Reference: invoice-235",Safe,14,100,0,False
+phish_328,Notice,service@apple.com,Security Alert: Your password needs reset. Visit: http://oil.verify-6332.tk/login VERIFY!!! Exclusive  LIMITED!!! Security  Refund  FREE!!! ACT NOW! immediately,Phishing,17,160,1,True
+safe_470,Project Update,team@work.com,"Weekly status report is ready for review.
+
+Best regards,
+Emily Davis
+Coordinator",Safe,12,80,0,False
+phish_267,Notice,noreply@irs.gov,"Dear customer, we noticed unusual activity. Please update your info: http://verify-5500.tk/login EXCLUSIVE!!! LIMITED TIME!!! Bank  REFUND!!! Prize  SECURITY!!!",Phishing,18,160,1,True
+safe_220,Welcome,team@work.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Best regards,
+Sarah Smith
+Manager",Safe,16,106,0,False
+phish_277,Action Required,noreply@irs.gov,Microsoft: Security update required. Download: http://eno.update-2912.ga/login EXCLUSIVE!!! UPDATE!!! Bank  Payment  Password  Account ,Phishing,12,135,1,True
+phish_135,Action Required,admin@amazon.com,URGENT: Your account has been compromised. Click here to verify: http://iqe.verify-7281.ml/login VERIFY!!! Password  ALERT!!! Suspended  CONFIRM!!! CLICK!!!,Phishing,17,156,1,True
+phish_211,Action Required,support@paypal.com,Your payment failed. Please update payment method: http://secure-3814.ml/login Alert  Prize  Free  Account  CONFIRM!!! VERIFY!!! ACT NOW! 24 hours,Phishing,18,146,1,True
+phish_219,URGENT,admin@amazon.com,Exclusive offer! Limited time: http://update-8278.tk/login Suspended  LIMITED TIME!!! Confirm  Bank  Exclusive ,Phishing,11,111,1,True
+phish_426,Action Required,service@apple.com,Account suspended. Reactivate now: http://pza.bank-8350.tk/login Verify  SECURITY!!! Click  CONGRATULATIONS!!! Winner  ACT NOW! immediately,Phishing,13,139,1,True
+phish_450,Security Alert,security@bank.com,PayPal: Your account limited. Resolve: http://update-1598.ga/login Click  CONFIRM!!! SUSPENDED!!! Limited  ACT NOW! immediately,Phishing,13,127,1,True
+safe_8,Monthly Report,john@company.com,New comment on your document: Looks good!,Safe,7,41,0,False
+safe_378,Invoice,team@work.com,"Your password was successfully changed. If this wasn't you, contact support.",Safe,11,76,0,False
+phish_195,Action Required,support@paypal.com,FedEx: Package delivery failed. Track: http://hrd.verify-8129.top/login EXCLUSIVE!!! BANK!!!,Phishing,8,92,1,True
+phish_69,Important,help@microsoft.com,Account suspended. Reactivate now: http://bank-2939.ga/login Limited time  LIMITED!!! Free  CONFIRM!!! Refund  ACT NOW! immediately,Phishing,14,131,1,True
+phish_382,Action Required,security@bank.com,Your Netflix subscription expired. Renew: http://hgw.secure-3575.tk/login Payment  Click  PRIZE!!! CONGRATULATIONS!!!,Phishing,10,117,1,True
+phish_260,Action Required,noreply@irs.gov,Security Alert: Your password needs reset. Visit: http://gkm.update-6687.ml/login Suspended  Congratulations  Payment  LIMITED!!!,Phishing,12,129,1,True
+safe_164,Invoice,john@company.com,"Your subscription has been renewed for another month.
+
+Best regards,
+Emily Davis
+Director",Safe,13,89,0,False
+safe_53,Welcome,john@company.com,"Your profile has been updated successfully.
+
+Reference: report-773",Safe,8,66,0,True
+phish_222,Security Alert,support@paypal.com,Your payment failed. Please update payment method: http://secure-2082.top/login SECURITY!!! Payment  ALERT!!!,Phishing,11,109,1,True
+phish_327,Security Alert,security@bank.com,Microsoft: Security update required. Download: http://bank-6798.top/login Update  LIMITED TIME!!! SECURITY!!! ALERT!!! PAYMENT!!! ACT NOW! 48 hours,Phishing,16,147,1,True
+safe_406,Welcome,info@business.com,"Your account balance is $6503
+
+Best regards,
+Mike Johnson
+Team Lead
+
+Reference: meeting-663",Safe,13,91,0,False
+phish_213,Notice,noreply@irs.gov,PayPal: Your account limited. Resolve: http://update-7856.xyz/login LIMITED TIME!!! ACCOUNT!!! CONGRATULATIONS!!! BANK!!! Free  Prize ,Phishing,13,134,1,True
+safe_126,Meeting Invitation,noreply@service.com,Weekly status report is ready for review.,Safe,7,41,0,False
+phish_77,URGENT,security@bank.com,Amazon: Order confirmation needed. Verify: http://bank-1851.xyz/login WINNER!!! Account  VERIFY!!! PAYMENT!!! ACT NOW! 48 hours,Phishing,14,127,1,True
+safe_319,Monthly Report,noreply@service.com,Thank you for your purchase! Your invoice is attached.,Safe,9,54,0,False
+safe_133,Monthly Report,john@company.com,"Your password was successfully changed. If this wasn't you, contact support.
+
+Reference: update-713",Safe,13,99,0,True
+safe_355,Welcome,john@company.com,"Weekly status report is ready for review.
+
+Reference: project-739",Safe,9,65,0,False
+phish_417,Action Required,admin@amazon.com,"Dear customer, we noticed unusual activity. Please update your info: http://verify-7999.ga/login Click  Limited  REFUND!!! UPDATE!!! CONFIRM!!! Prize ",Phishing,17,150,1,True
+safe_275,Invoice,team@work.com,"Your subscription has been renewed for another month.
+
+Best regards,
+Mike Johnson
+Team Lead",Safe,14,91,0,False
+phish_276,Action Required,support@paypal.com,IRS Notice: Tax refund pending. Click: http://qiw.bank-5258.ml/login Prize  REFUND!!! CLICK!!! ACT NOW! 48 hours,Phishing,14,112,1,True
+phish_25,Notice,noreply@irs.gov,Congratulations! You won a prize. Claim now: http://account-2914.tk/login CONFIRM!!! SECURITY!!! Suspended  CLICK!!! Urgent  Limited  ACT NOW! 48 hours,Phishing,18,151,1,True
+phish_360,Security Alert,help@microsoft.com,FedEx: Package delivery failed. Track: http://verify-5141.tk/login PASSWORD!!! Congratulations ,Phishing,8,95,1,True
+phish_203,Notice,security@bank.com,Microsoft: Security update required. Download: http://nac.verify-1949.tk/login Exclusive  PAYMENT!!! Prize  Update  ACT NOW! 48 hours,Phishing,14,133,1,True
+phish_433,Action Required,admin@amazon.com,Your Netflix subscription expired. Renew: http://secure-7603.xyz/login Payment  Winner  Security  ALERT!!! PRIZE!!!,Phishing,11,115,1,True
+safe_344,Monthly Report,manager@office.com,Thank you for your purchase! Your invoice is attached.,Safe,9,54,0,False
+phish_418,Notice,admin@amazon.com,IRS Notice: Tax refund pending. Click: http://verify-5542.top/login Verify  Payment  Update  Bank  ALERT!!! Confirm  ACT NOW! 24 hours,Phishing,17,134,1,True
+safe_152,Order Confirmation,john@company.com,"Project update: We're ahead of schedule!
+
+Best regards,
+Sarah Smith
+Director
+
+Reference: profile-294",Safe,13,100,0,True
+safe_113,Order Confirmation,support@legit.com,Thank you for your purchase! Your invoice is attached.,Safe,9,54,0,False
+phish_457,URGENT,service@apple.com,Your bank account requires verification: http://tip.bank-9543.ga/login BANK!!! Exclusive  Congratulations  LIMITED!!!,Phishing,10,117,1,False
+phish_125,URGENT,help@microsoft.com,PayPal: Your account limited. Resolve: http://update-3671.ml/login Account  FREE!!! Verify  CONGRATULATIONS!!! ACT NOW! immediately,Phishing,13,131,1,True
+phish_248,Action Required,admin@amazon.com,Amazon: Order confirmation needed. Verify: http://verify-2188.tk/login Exclusive  VERIFY!!!,Phishing,8,91,1,True
+safe_85,Team Update,team@work.com,"Monthly newsletter: Check out our latest updates and features.
+
+Best regards,
+Mike Johnson
+Director",Safe,14,99,0,True
+phish_155,Notice,service@apple.com,IRS Notice: Tax refund pending. Click: http://update-2317.tk/login Click  Payment ,Phishing,9,82,1,True
+safe_278,Team Update,manager@office.com,Project update: We're ahead of schedule!,Safe,6,40,0,True
+safe_263,Newsletter,support@legit.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Best regards,
+John Doe
+Director
+
+Reference: newsletter-708",Safe,18,131,0,False
+safe_17,Welcome,info@business.com,"Payment receipt for your recent transaction of $453.
+
+Best regards,
+Emily Davis
+Director",Safe,13,88,0,False
+phish_129,Security Alert,help@microsoft.com,Security Alert: Your password needs reset. Visit: http://bank-3437.ml/login LIMITED TIME!!! SUSPENDED!!! Password  ACT NOW! 48 hours,Phishing,16,132,1,True
+phish_187,Notice,service@apple.com,URGENT: Your account has been compromised. Click here to verify: http://umr.bank-4529.ml/login PRIZE!!! Confirm  Free  SUSPENDED!!! Limited  EXCLUSIVE!!!,Phishing,17,153,1,True
+phish_317,Security Alert,admin@amazon.com,PayPal: Your account limited. Resolve: http://verify-4046.xyz/login LIMITED!!! URGENT!!! LIMITED TIME!!! EXCLUSIVE!!! PASSWORD!!! ACT NOW! 48 hours,Phishing,16,147,1,True
+safe_60,Welcome,john@company.com,Your profile has been updated successfully.,Safe,6,43,0,True
+safe_342,Team Update,team@work.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Best regards,
+Emily Davis
+Coordinator",Safe,16,110,0,False
+phish_398,Action Required,security@bank.com,Your Netflix subscription expired. Renew: http://xni.verify-6721.xyz/login UPDATE!!! Refund ,Phishing,8,92,1,True
+phish_232,URGENT,admin@amazon.com,IRS Notice: Tax refund pending. Click: http://wtr.account-9124.ga/login URGENT!!! Free  SECURITY!!! Confirm  ALERT!!! Refund  ACT NOW! 24 hours,Phishing,17,143,1,True
+phish_68,Action Required,service@apple.com,IRS Notice: Tax refund pending. Click: http://hta.secure-2768.ml/login Verify  Alert  Free  ACT NOW! 48 hours,Phishing,14,109,1,True
+safe_394,Monthly Report,team@work.com,"Weekly status report is ready for review.
+
+Reference: purchase-166",Safe,9,66,0,False
+safe_153,Welcome,noreply@service.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Best regards,
+Sarah Smith
+Director
+
+Reference: invoice-209",Safe,20,129,0,False
+phish_351,Action Required,admin@amazon.com,URGENT: Your account has been compromised. Click here to verify: http://bank-4789.ml/login Suspended  Free  Account  PRIZE!!! ACT NOW! 48 hours,Phishing,19,143,1,True
+phish_189,Notice,help@microsoft.com,Microsoft: Security update required. Download: http://wnx.account-8563.ml/login Limited  Winner  LIMITED TIME!!! Password  ACT NOW! 24 hours,Phishing,15,140,1,True
+phish_350,Action Required,noreply@irs.gov,URGENT: Your account has been compromised. Click here to verify: http://account-5196.xyz/login REFUND!!! CLICK!!! ACT NOW! 48 hours,Phishing,17,131,1,True
+phish_169,Notice,admin@amazon.com,Your bank account requires verification: http://usn.secure-1573.tk/login ACCOUNT!!! Limited time  PASSWORD!!! CONFIRM!!! LIMITED!!!,Phishing,12,131,1,False
+phish_6,URGENT,security@bank.com,IRS Notice: Tax refund pending. Click: http://account-3728.tk/login PRIZE!!! Suspended ,Phishing,9,87,1,True
+safe_90,Welcome,john@company.com,Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.,Safe,11,71,0,False
+safe_332,Order Confirmation,team@work.com,"Monthly newsletter: Check out our latest updates and features.
+
+Best regards,
+Mike Johnson
+Director",Safe,14,99,0,True
+safe_421,Invoice,noreply@service.com,"Your order #38733 has been shipped. Tracking number: EHYNJ4175D
+
+Reference: purchase-588",Safe,11,88,0,False
+phish_264,Notice,help@microsoft.com,Your Netflix subscription expired. Renew: http://zqr.account-9822.ga/login Account  Limited  Congratulations  PAYMENT!!!,Phishing,10,120,1,False
+safe_116,Project Update,john@company.com,Weekly status report is ready for review.,Safe,7,41,0,False
+safe_81,Welcome,team@work.com,Weekly status report is ready for review.,Safe,7,41,0,False
+phish_295,Security Alert,security@bank.com,Security Alert: Your password needs reset. Visit: http://update-2154.ml/login REFUND!!! Click  Limited time  Account  Prize  ACT NOW! 48 hours,Phishing,18,142,1,True
+phish_100,Action Required,service@apple.com,Amazon: Order confirmation needed. Verify: http://verify-8296.top/login SUSPENDED!!! Winner  EXCLUSIVE!!! Alert  CONGRATULATIONS!!! Free ,Phishing,12,137,1,True
+safe_468,Meeting Invitation,info@business.com,Welcome to our service! Here's how to get started.,Safe,9,50,0,False
+safe_361,Welcome,noreply@service.com,Your order #98456 has been shipped. Tracking number: RU03SFEO5V,Safe,9,63,0,False
+safe_436,Team Update,noreply@service.com,"Your profile has been updated successfully.
+
+Best regards,
+Emily Davis
+Coordinator
+
+Reference: receipt-215",Safe,13,106,0,True
+phish_465,Action Required,support@paypal.com,FedEx: Package delivery failed. Track: http://update-1160.top/login WINNER!!! ALERT!!! ACT NOW! 48 hours,Phishing,12,104,1,True
+safe_346,Invoice,support@legit.com,Project update: We're ahead of schedule!,Safe,6,40,0,True
+safe_465,Order Confirmation,john@company.com,"Your order #78239 has been shipped. Tracking number: I4QN1EQQ10
+
+Reference: purchase-410",Safe,11,88,0,False
+phish_182,Action Required,admin@amazon.com,Microsoft: Security update required. Download: http://secure-2019.ml/login LIMITED!!! Free  PAYMENT!!! Password  Winner  CONFIRM!!! ACT NOW! 24 hours,Phishing,16,149,1,True
+safe_232,Project Update,support@legit.com,"Payment receipt for your recent transaction of $457.
+
+Reference: balance-820",Safe,10,76,0,False
+safe_156,Order Confirmation,john@company.com,"Welcome to our service! Here's how to get started.
+
+Reference: meeting-352",Safe,11,74,0,False
+safe_87,Invoice,noreply@service.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Best regards,
+John Doe
+Team Lead",Safe,17,105,0,False
+phish_291,Security Alert,service@apple.com,Your Netflix subscription expired. Renew: http://wmf.account-1951.ml/login FREE!!! Suspended  ACT NOW! 48 hours,Phishing,12,111,1,True
+phish_496,URGENT,admin@amazon.com,Account suspended. Reactivate now: http://xte.account-9281.ml/login Winner  Bank  ACT NOW! 48 hours,Phishing,11,99,1,True
+phish_361,Security Alert,security@bank.com,Your Netflix subscription expired. Renew: http://verify-8953.ml/login Winner  ACCOUNT!!! LIMITED TIME!!! Password  ACT NOW! immediately,Phishing,14,135,1,True
+phish_255,Security Alert,security@bank.com,Security Alert: Your password needs reset. Visit: http://bbz.bank-6044.top/login ACCOUNT!!! BANK!!! ACT NOW! 24 hours,Phishing,14,117,1,True
+safe_245,Invoice,john@company.com,"Your account balance is $8884
+
+Best regards,
+Emily Davis
+Manager
+
+Reference: project-527",Safe,12,88,0,False
+phish_139,Important,help@microsoft.com,IRS Notice: Tax refund pending. Click: http://cws.bank-7769.ml/login Alert  CLICK!!! UPDATE!!! SECURITY!!! ACT NOW! 24 hours,Phishing,15,124,1,True
+phish_396,Security Alert,security@bank.com,"Dear customer, we noticed unusual activity. Please update your info: http://secure-9298.xyz/login CLICK!!! BANK!!!",Phishing,13,114,1,True
+phish_471,Action Required,help@microsoft.com,Your payment failed. Please update payment method: http://vty.bank-4439.xyz/login Free  VERIFY!!! CLICK!!! Account ,Phishing,12,115,1,True
+safe_97,Order Confirmation,john@company.com,"Team meeting notes from today's discussion.
+
+Reference: receipt-324",Safe,8,67,0,False
+safe_207,Welcome,info@business.com,Your profile has been updated successfully.,Safe,6,43,0,True
+safe_91,Meeting Invitation,team@work.com,"Team meeting notes from today's discussion.
+
+Best regards,
+Emily Davis
+Director",Safe,11,79,0,False
+safe_474,Team Update,info@business.com,"Weekly status report is ready for review.
+
+Best regards,
+Emily Davis
+Team Lead
+
+Reference: subscription-111",Safe,15,107,0,False
+phish_61,Action Required,noreply@irs.gov,FedEx: Package delivery failed. Track: http://hmu.update-5108.ga/login PRIZE!!! Urgent  LIMITED TIME!!! Click  Limited  ACT NOW! 48 hours,Phishing,16,137,1,True
+phish_172,Important,security@bank.com,URGENT: Your account has been compromised. Click here to verify: http://ofx.bank-5280.tk/login Prize  Update  Congratulations  VERIFY!!! Exclusive  ACT NOW! 48 hours,Phishing,20,165,1,True
+phish_389,URGENT,help@microsoft.com,"Dear customer, we noticed unusual activity. Please update your info: http://bank-3559.ml/login FREE!!! Congratulations  PRIZE!!! VERIFY!!!",Phishing,15,138,1,True
+safe_195,Team Update,support@legit.com,"Your subscription has been renewed for another month.
+
+Best regards,
+John Doe
+Team Lead
+
+Reference: invoice-459",Safe,16,111,0,False
+phish_16,Action Required,security@bank.com,Security Alert: Your password needs reset. Visit: http://secure-2551.tk/login PASSWORD!!! Limited time  ACT NOW! 24 hours,Phishing,15,121,1,True
+safe_145,Welcome,info@business.com,"Payment receipt for your recent transaction of $457.
+
+Best regards,
+Emily Davis
+Team Lead",Safe,14,89,0,False
+safe_20,Newsletter,info@business.com,"Monthly newsletter: Check out our latest updates and features.
+
+Best regards,
+Mike Johnson
+Director
+
+Reference: update-920",Safe,16,122,0,True
+safe_254,Team Update,noreply@service.com,Your account balance is $2604,Safe,5,29,0,False
+safe_180,Meeting Invitation,manager@office.com,"Team meeting notes from today's discussion.
+
+Best regards,
+John Doe
+Manager
+
+Reference: profile-947",Safe,13,99,0,False
+safe_321,Order Confirmation,info@business.com,"Payment receipt for your recent transaction of $128.
+
+Best regards,
+Emily Davis
+Manager",Safe,13,87,0,False
+phish_227,Security Alert,admin@amazon.com,Microsoft: Security update required. Download: http://account-6778.xyz/login Limited time  CONGRATULATIONS!!! ACT NOW! 24 hours,Phishing,13,127,1,True
+safe_475,Project Update,team@work.com,"Payment receipt for your recent transaction of $57.
+
+Best regards,
+Sarah Smith
+Coordinator
+
+Reference: team-233",Safe,15,111,0,False
+safe_459,Project Update,info@business.com,Team meeting notes from today's discussion.,Safe,6,43,0,False
+phish_228,Notice,security@bank.com,URGENT: Your account has been compromised. Click here to verify: http://secure-5096.xyz/login Winner  Urgent  Verify  ACT NOW! 48 hours,Phishing,18,135,1,True
+safe_108,Meeting Invitation,info@business.com,"Thank you for your purchase! Your invoice is attached.
+
+Reference: document-510",Safe,11,79,0,False
+safe_167,Project Update,noreply@service.com,"Your subscription has been renewed for another month.
+
+Best regards,
+John Doe
+Manager",Safe,13,85,0,False
+phish_397,Action Required,help@microsoft.com,Security Alert: Your password needs reset. Visit: http://update-9337.tk/login UPDATE!!! Account  Urgent  Confirm  PAYMENT!!! Verify ,Phishing,14,132,1,True
+phish_487,Action Required,help@microsoft.com,Your Netflix subscription expired. Renew: http://secure-4606.ga/login Confirm  EXCLUSIVE!!! ACT NOW! immediately,Phishing,11,112,1,False
+phish_301,Important,help@microsoft.com,Microsoft: Security update required. Download: http://verify-8327.ml/login ACCOUNT!!! BANK!!! Alert  WINNER!!! Password  Free ,Phishing,12,126,1,True
+safe_330,Newsletter,manager@office.com,"New comment on your document: Please review
+
+Best regards,
+Emily Davis
+Team Lead
+
+Reference: profile-314",Safe,15,104,0,False
+phish_439,Notice,support@paypal.com,Exclusive offer! Limited time: http://dkm.verify-8840.xyz/login Free  VERIFY!!! Exclusive  CONGRATULATIONS!!! REFUND!!! Limited ,Phishing,11,128,1,True
+safe_466,Monthly Report,noreply@service.com,New comment on your document: Looks good!,Safe,7,41,0,False
+phish_242,Security Alert,noreply@irs.gov,FedEx: Package delivery failed. Track: http://verify-5380.ml/login Payment  Winner  ACCOUNT!!! ACT NOW! immediately,Phishing,12,115,1,True
+safe_447,Newsletter,info@business.com,Weekly status report is ready for review.,Safe,7,41,0,False
+phish_122,Security Alert,support@paypal.com,Your payment failed. Please update payment method: http://vji.update-5415.tk/login URGENT!!! Click  Payment  SUSPENDED!!! ACT NOW! 24 hours,Phishing,16,139,1,True
+phish_18,Security Alert,service@apple.com,Amazon: Order confirmation needed. Verify: http://secure-9322.ml/login Exclusive  Confirm  FREE!!! Urgent ,Phishing,10,106,1,True
+safe_312,Team Update,manager@office.com,"Team meeting notes from today's discussion.
+
+Reference: meeting-105",Safe,8,67,0,False
+safe_335,Team Update,team@work.com,"Your password was successfully changed. If this wasn't you, contact support.
+
+Best regards,
+Emily Davis
+Director",Safe,16,112,0,False
+phish_261,URGENT,noreply@irs.gov,PayPal: Your account limited. Resolve: http://tkd.verify-2293.top/login Limited  Free  WINNER!!! CLICK!!! Bank  ACCOUNT!!!,Phishing,12,122,1,True
+phish_307,Notice,support@paypal.com,Your Apple ID has been locked. Unlock: http://verify-5967.xyz/login Account  REFUND!!! WINNER!!! URGENT!!! EXCLUSIVE!!! ACT NOW! immediately,Phishing,16,140,1,True
+phish_47,Notice,noreply@irs.gov,Amazon: Order confirmation needed. Verify: http://zys.secure-8560.xyz/login Prize  CLICK!!! Security  Free  Update  Limited time  ACT NOW! immediately,Phishing,16,150,1,True
+phish_369,Security Alert,noreply@irs.gov,FedEx: Package delivery failed. Track: http://secure-6400.top/login ALERT!!! Security ,Phishing,8,86,1,True
+safe_326,Newsletter,support@legit.com,"Hi, Here's the report you requested. Let me know if you need changes.",Safe,13,69,0,False
+phish_214,Security Alert,service@apple.com,Your bank account requires verification: http://fbp.bank-1301.tk/login URGENT!!! PRIZE!!! UPDATE!!! FREE!!! Refund ,Phishing,11,115,1,True
+phish_308,Important,security@bank.com,PayPal: Your account limited. Resolve: http://bank-4483.xyz/login Bank  CONGRATULATIONS!!! Winner  Update  SUSPENDED!!! VERIFY!!!,Phishing,12,129,1,True
+safe_366,Monthly Report,noreply@service.com,"Your profile has been updated successfully.
+
+Reference: profile-964",Safe,8,67,0,True
+phish_416,Important,support@paypal.com,Your Apple ID has been locked. Unlock: http://update-6380.ga/login REFUND!!! CONFIRM!!! Congratulations  Click  PAYMENT!!!,Phishing,13,122,1,True
+safe_376,Newsletter,noreply@service.com,Your order #72831 has been shipped. Tracking number: 99MNP3QFJ6,Safe,9,63,0,False
+phish_477,Important,noreply@irs.gov,Congratulations! You won a prize. Claim now: http://update-2510.ml/login URGENT!!! WINNER!!! ACCOUNT!!! SUSPENDED!!! LIMITED!!! ACT NOW! 48 hours,Phishing,17,145,1,True
+safe_480,Team Update,team@work.com,"Payment receipt for your recent transaction of $128.
+
+Reference: purchase-207",Safe,10,77,0,False
+phish_123,Notice,noreply@irs.gov,Microsoft: Security update required. Download: http://btj.bank-4658.top/login CLICK!!! CONFIRM!!! Alert  Password  ACT NOW! immediately,Phishing,13,135,1,True
+phish_384,Notice,service@apple.com,Your Apple ID has been locked. Unlock: http://verify-1727.tk/login Verify  Password ,Phishing,10,84,1,True
+safe_338,Newsletter,info@business.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Best regards,
+John Doe
+Team Lead",Safe,19,103,0,False
+phish_176,URGENT,admin@amazon.com,Microsoft: Security update required. Download: http://update-9716.tk/login Password  Exclusive  CONGRATULATIONS!!! ACT NOW! immediately,Phishing,12,135,1,True
+safe_235,Invoice,manager@office.com,Your profile has been updated successfully.,Safe,6,43,0,True
+phish_414,Security Alert,support@paypal.com,Your bank account requires verification: http://update-3586.ga/login Bank  Limited  Free  SECURITY!!!,Phishing,10,101,1,True
+phish_316,URGENT,help@microsoft.com,Microsoft: Security update required. Download: http://uqy.bank-8693.top/login Password  Congratulations ,Phishing,8,104,1,True
+phish_171,Notice,noreply@irs.gov,Exclusive offer! Limited time: http://ddp.secure-2115.ml/login WINNER!!! Prize  CLICK!!! FREE!!!,Phishing,9,96,1,True
+phish_165,Important,admin@amazon.com,IRS Notice: Tax refund pending. Click: http://verify-9890.tk/login Verify  URGENT!!! EXCLUSIVE!!! CONFIRM!!! Update  REFUND!!!,Phishing,13,126,1,True
+phish_422,Action Required,support@paypal.com,PayPal: Your account limited. Resolve: http://lxn.verify-7093.top/login Alert  Exclusive  VERIFY!!! REFUND!!! Urgent  LIMITED!!! ACT NOW! immediately,Phishing,15,149,1,True
+phish_407,Security Alert,noreply@irs.gov,IRS Notice: Tax refund pending. Click: http://verify-4924.top/login ALERT!!! UPDATE!!! ACCOUNT!!!,Phishing,10,97,1,True
+phish_441,Important,noreply@irs.gov,URGENT: Your account has been compromised. Click here to verify: http://ceq.verify-8395.ga/login PAYMENT!!! Exclusive  CONFIRM!!! ACT NOW! 24 hours,Phishing,18,147,1,True
+phish_481,Security Alert,support@paypal.com,Your Apple ID has been locked. Unlock: http://verify-7282.ml/login Payment  REFUND!!! LIMITED!!!,Phishing,11,96,1,True
+phish_143,Action Required,support@paypal.com,Account suspended. Reactivate now: http://yfq.account-6093.ga/login CLICK!!! Update  ACT NOW! immediately,Phishing,10,105,1,True
+phish_150,Action Required,support@paypal.com,Your payment failed. Please update payment method: http://secure-1079.top/login WINNER!!! Urgent  PAYMENT!!!,Phishing,11,108,1,True
+phish_119,Notice,service@apple.com,Congratulations! You won a prize. Claim now: http://lvg.bank-8941.ml/login Account  LIMITED TIME!!! Payment ,Phishing,12,108,1,False
+safe_54,Monthly Report,info@business.com,"Your password was successfully changed. If this wasn't you, contact support.
+
+Best regards,
+Mike Johnson
+Director",Safe,16,113,0,False
+safe_403,Invoice,noreply@service.com,"Team meeting notes from today's discussion.
+
+Reference: profile-839",Safe,8,67,0,False
+safe_212,Team Update,support@legit.com,"Your profile has been updated successfully.
+
+Best regards,
+Sarah Smith
+Coordinator
+
+Reference: order-683",Safe,13,104,0,True
+phish_56,Notice,noreply@irs.gov,Security Alert: Your password needs reset. Visit: http://nqj.update-1443.tk/login UPDATE!!! PASSWORD!!! VERIFY!!! LIMITED TIME!!! PAYMENT!!! Limited  ACT NOW! 24 hours,Phishing,19,167,1,True
+safe_347,Invoice,john@company.com,"Team meeting notes from today's discussion.
+
+Best regards,
+Mike Johnson
+Team Lead",Safe,12,81,0,False
+safe_55,Monthly Report,support@legit.com,Your profile has been updated successfully.,Safe,6,43,0,True
+phish_359,URGENT,service@apple.com,Account suspended. Reactivate now: http://ywl.account-9355.top/login Password  Urgent  CONGRATULATIONS!!! Prize  Suspended  REFUND!!!,Phishing,11,133,1,True
+safe_211,Meeting Invitation,support@legit.com,"Weekly status report is ready for review.
+
+Best regards,
+John Doe
+Director
+
+Reference: invoice-711",Safe,14,98,0,False
+safe_357,Order Confirmation,john@company.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Best regards,
+Sarah Smith
+Coordinator
+
+Reference: balance-493",Safe,20,132,0,False
+phish_354,URGENT,support@paypal.com,Microsoft: Security update required. Download: http://update-6083.ga/login ALERT!!! REFUND!!! Password  ACCOUNT!!! Free  ACT NOW! 24 hours,Phishing,15,138,1,True
+safe_115,Welcome,team@work.com,"Team meeting notes from today's discussion.
+
+Best regards,
+Emily Davis
+Director",Safe,11,79,0,False
+safe_315,Meeting Invitation,john@company.com,Your profile has been updated successfully.,Safe,6,43,0,True
+phish_492,Security Alert,admin@amazon.com,"Dear customer, we noticed unusual activity. Please update your info: http://eio.bank-7750.top/login Click  URGENT!!! Suspended  CONGRATULATIONS!!! ACT NOW! immediately",Phishing,18,167,1,True
+phish_57,Action Required,support@paypal.com,Security Alert: Your password needs reset. Visit: http://bank-2888.xyz/login Limited time  Account  PAYMENT!!! FREE!!!,Phishing,13,118,1,True
+safe_482,Meeting Invitation,support@legit.com,"Your account balance is $5779
+
+Best regards,
+Emily Davis
+Coordinator
+
+Reference: team-556",Safe,12,89,0,False
+safe_159,Meeting Invitation,john@company.com,"New comment on your document: Approved
+
+Best regards,
+John Doe
+Coordinator
+
+Reference: project-635",Safe,13,98,0,False
+phish_461,Action Required,service@apple.com,Account suspended. Reactivate now: http://bank-4875.tk/login Payment  Winner  Free  Congratulations  VERIFY!!! ACT NOW! immediately,Phishing,13,131,1,True
+phish_50,Action Required,support@paypal.com,PayPal: Your account limited. Resolve: http://ads.bank-8497.ml/login LIMITED!!! URGENT!!! ACT NOW! 48 hours,Phishing,12,107,1,True
+safe_99,Order Confirmation,team@work.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+John Doe
+Director
+
+Reference: review-115",Safe,16,110,0,False
+safe_39,Order Confirmation,manager@office.com,Team meeting notes from today's discussion.,Safe,6,43,0,False
+safe_65,Welcome,john@company.com,"New comment on your document: Please review
+
+Reference: report-684",Safe,9,66,0,False
+phish_54,URGENT,support@paypal.com,Your Apple ID has been locked. Unlock: http://iqw.update-5245.top/login LIMITED!!! Password  CONGRATULATIONS!!! ACCOUNT!!!,Phishing,12,122,1,True
+phish_448,Security Alert,support@paypal.com,IRS Notice: Tax refund pending. Click: http://bwx.secure-1967.ga/login Payment  Confirm  LIMITED!!! Free  Congratulations  ACT NOW! 24 hours,Phishing,16,140,1,True
+phish_274,Security Alert,admin@amazon.com,Exclusive offer! Limited time: http://awy.secure-4186.tk/login BANK!!! Exclusive  ACT NOW! immediately,Phishing,10,102,1,False
+safe_316,Invoice,manager@office.com,"Your account balance is $8882
+
+Best regards,
+John Doe
+Manager
+
+Reference: profile-966",Safe,12,85,0,False
+safe_165,Invoice,manager@office.com,"Payment receipt for your recent transaction of $141.
+
+Best regards,
+Mike Johnson
+Director
+
+Reference: status-351",Safe,15,112,0,False
+safe_393,Order Confirmation,noreply@service.com,"Your profile has been updated successfully.
+
+Reference: invoice-503",Safe,8,67,0,True
+phish_114,Action Required,help@microsoft.com,Your Apple ID has been locked. Unlock: http://hge.update-8496.xyz/login CONFIRM!!! Exclusive  WINNER!!! PASSWORD!!! FREE!!! UPDATE!!!,Phishing,14,133,1,True
+phish_93,Security Alert,help@microsoft.com,IRS Notice: Tax refund pending. Click: http://update-7224.ml/login Limited  Alert  EXCLUSIVE!!! Verify ,Phishing,11,103,1,True
+phish_244,Action Required,noreply@irs.gov,Microsoft: Security update required. Download: http://bank-5010.ml/login Security  Password  Account  Alert  ACT NOW! 48 hours,Phishing,14,126,1,True
+safe_343,Meeting Invitation,john@company.com,"Project update: We're ahead of schedule!
+
+Reference: order-587",Safe,8,62,0,True
+phish_138,Security Alert,service@apple.com,Microsoft: Security update required. Download: http://update-3257.top/login Urgent  Confirm  ALERT!!! Exclusive  Winner  ACT NOW! immediately,Phishing,14,141,1,True
+phish_348,Important,service@apple.com,Amazon: Order confirmation needed. Verify: http://bank-9560.tk/login Refund  Bank  ALERT!!! Account  Security  Prize  ACT NOW! 24 hours,Phishing,16,135,1,True
+safe_31,Team Update,info@business.com,"Monthly newsletter: Check out our latest updates and features.
+
+Best regards,
+Mike Johnson
+Director
+
+Reference: subscription-964",Safe,16,128,0,True
+phish_313,Notice,admin@amazon.com,Your bank account requires verification: http://lla.account-9435.tk/login Alert  ACCOUNT!!! ACT NOW! 24 hours,Phishing,12,109,1,True
+phish_58,URGENT,admin@amazon.com,PayPal: Your account limited. Resolve: http://pnx.update-5787.tk/login EXCLUSIVE!!! Confirm  Free  ACT NOW! immediately,Phishing,12,119,1,True
+safe_337,Monthly Report,john@company.com,"Your order #31702 has been shipped. Tracking number: Z24YKQKXE2
+
+Reference: status-404",Safe,11,86,0,False
+phish_55,URGENT,support@paypal.com,FedEx: Package delivery failed. Track: http://update-6083.xyz/login Security  BANK!!! Limited time  VERIFY!!!,Phishing,11,109,1,True
+safe_130,Project Update,support@legit.com,"Team meeting notes from today's discussion.
+
+Best regards,
+Sarah Smith
+Director
+
+Reference: meeting-692",Safe,13,103,0,False
+safe_2,Newsletter,john@company.com,"Payment receipt for your recent transaction of $390.
+
+Best regards,
+Mike Johnson
+Manager
+
+Reference: review-533",Safe,15,111,0,False
+safe_150,Project Update,manager@office.com,"Your order #92946 has been shipped. Tracking number: LK1JULG74K
+
+Best regards,
+Sarah Smith
+Team Lead
+
+Reference: tracking-969",Safe,17,125,0,False
+safe_3,Newsletter,john@company.com,"Your order #61395 has been shipped. Tracking number: W35DRRDUT1
+
+Reference: report-115",Safe,11,86,0,False
+phish_71,URGENT,support@paypal.com,Your Apple ID has been locked. Unlock: http://account-8811.ml/login ALERT!!! PRIZE!!! ACT NOW! immediately,Phishing,13,106,1,True
+safe_127,Team Update,info@business.com,"Your subscription has been renewed for another month.
+
+Best regards,
+John Doe
+Manager
+
+Reference: team-298",Safe,15,106,0,False
+phish_120,Important,help@microsoft.com,Microsoft: Security update required. Download: http://update-9185.ml/login Update  ALERT!!! BANK!!! PRIZE!!! ACT NOW! 24 hours,Phishing,14,126,1,True
+phish_469,Action Required,support@paypal.com,Your payment failed. Please update payment method: http://verify-1872.tk/login WINNER!!! Suspended  CLICK!!! ALERT!!! Update  Confirm ,Phishing,14,134,1,True
+safe_306,Team Update,info@business.com,"Project update: We're ahead of schedule!
+
+Reference: subscription-841",Safe,8,69,0,True
+safe_208,Order Confirmation,manager@office.com,"Your subscription has been renewed for another month.
+
+Best regards,
+Sarah Smith
+Director
+
+Reference: order-449",Safe,15,111,0,False
+safe_396,Meeting Invitation,noreply@service.com,Welcome to our service! Here's how to get started.,Safe,9,50,0,False
+phish_217,URGENT,admin@amazon.com,PayPal: Your account limited. Resolve: http://emr.bank-7609.tk/login Bank  PRIZE!!! Free  CLICK!!! CONFIRM!!! CONGRATULATIONS!!! ACT NOW! immediately,Phishing,15,149,1,True
+safe_360,Monthly Report,john@company.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Best regards,
+Emily Davis
+Team Lead
+
+Reference: status-877",Safe,19,131,0,False
+safe_255,Meeting Invitation,team@work.com,"New comment on your document: Please review
+
+Best regards,
+Emily Davis
+Team Lead
+
+Reference: meeting-831",Safe,15,104,0,False
+phish_31,Security Alert,support@paypal.com,Congratulations! You won a prize. Claim now: http://zlg.secure-4006.xyz/login Free  Payment  Prize  Password  Limited ,Phishing,13,118,1,False
+phish_280,Notice,noreply@irs.gov,Microsoft: Security update required. Download: http://update-5966.tk/login Exclusive  Limited  Click  VERIFY!!! ACT NOW! 24 hours,Phishing,14,129,1,True
+safe_9,Monthly Report,noreply@service.com,"Monthly newsletter: Check out our latest updates and features.
+
+Reference: review-684",Safe,11,85,0,True
+phish_104,Security Alert,security@bank.com,Congratulations! You won a prize. Claim now: http://account-1996.tk/login Free  Click  WINNER!!!,Phishing,11,96,1,True
+phish_194,Notice,service@apple.com,FedEx: Package delivery failed. Track: http://fdr.verify-4049.top/login REFUND!!! Free  ACT NOW! immediately,Phishing,11,108,1,True
+phish_253,Action Required,admin@amazon.com,Your bank account requires verification: http://bank-2991.xyz/login Refund  Suspended  Password  URGENT!!! LIMITED!!! ACT NOW! immediately,Phishing,14,138,1,True
+phish_10,Notice,noreply@irs.gov,Account suspended. Reactivate now: http://verify-3756.xyz/login Confirm  URGENT!!! LIMITED TIME!!! Winner ,Phishing,10,106,1,True
+safe_161,Newsletter,manager@office.com,"Project update: We're ahead of schedule!
+
+Reference: report-942",Safe,8,63,0,True
+phish_473,URGENT,support@paypal.com,Your payment failed. Please update payment method: http://icz.secure-5195.ml/login Confirm  CLICK!!! ACT NOW! immediately,Phishing,13,121,1,True
+phish_290,Notice,service@apple.com,Account suspended. Reactivate now: http://update-6525.xyz/login Account  LIMITED TIME!!! URGENT!!! Verify  Exclusive ,Phishing,11,117,1,True
+safe_196,Meeting Invitation,john@company.com,Payment receipt for your recent transaction of $431.,Safe,8,52,0,False
+phish_166,Security Alert,help@microsoft.com,Microsoft: Security update required. Download: http://verify-7334.tk/login Password  Winner  Prize  ACT NOW! 48 hours,Phishing,13,117,1,True
+safe_256,Invoice,manager@office.com,"Project update: We're ahead of schedule!
+
+Reference: tracking-130",Safe,8,65,0,True
+safe_114,Project Update,support@legit.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Best regards,
+Mike Johnson
+Team Lead
+
+Reference: status-799",Safe,19,132,0,False
+phish_326,Notice,admin@amazon.com,IRS Notice: Tax refund pending. Click: http://qur.bank-4998.xyz/login Password  BANK!!! ACT NOW! 48 hours,Phishing,13,105,1,True
+safe_377,Project Update,support@legit.com,"Weekly status report is ready for review.
+
+Reference: update-129",Safe,9,64,0,True
+safe_390,Monthly Report,john@company.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+Emily Davis
+Coordinator",Safe,14,93,0,False
+phish_185,URGENT,admin@amazon.com,Your Apple ID has been locked. Unlock: http://account-3386.ga/login Refund  ALERT!!! LIMITED TIME!!! ACT NOW! 24 hours,Phishing,16,118,1,True
+safe_382,Order Confirmation,support@legit.com,"Your subscription has been renewed for another month.
+
+Best regards,
+Mike Johnson
+Director",Safe,13,90,0,False
+phish_8,Action Required,help@microsoft.com,"Dear customer, we noticed unusual activity. Please update your info: http://xum.account-4949.ml/login Password  VERIFY!!! Bank  CONGRATULATIONS!!! ALERT!!!",Phishing,16,155,1,True
+phish_149,Notice,help@microsoft.com,Your bank account requires verification: http://jku.bank-9936.ga/login FREE!!! Urgent  UPDATE!!! ALERT!!!,Phishing,10,105,1,True
+phish_494,Security Alert,help@microsoft.com,Security Alert: Your password needs reset. Visit: http://account-2246.ga/login Prize  Click  Update  Bank  Alert  Suspended ,Phishing,14,124,1,True
+phish_147,Important,security@bank.com,"Dear customer, we noticed unusual activity. Please update your info: http://verify-6805.ga/login Winner  Payment  BANK!!! ACT NOW! 48 hours",Phishing,18,139,1,True
+safe_80,Invoice,john@company.com,"Thank you for your purchase! Your invoice is attached.
+
+Reference: invoice-981",Safe,11,78,0,False
+phish_156,URGENT,noreply@irs.gov,URGENT: Your account has been compromised. Click here to verify: http://lto.account-7449.tk/login Suspended  Limited time  URGENT!!! Prize ,Phishing,16,139,1,True
+phish_76,Notice,help@microsoft.com,Security Alert: Your password needs reset. Visit: http://secure-8212.top/login Security  VERIFY!!! ACT NOW! 24 hours,Phishing,14,116,1,True
+safe_186,Invoice,support@legit.com,Your subscription has been renewed for another month.,Safe,8,53,0,False
+safe_358,Invoice,info@business.com,"Payment receipt for your recent transaction of $271.
+
+Best regards,
+Emily Davis
+Director
+
+Reference: comment-995",Safe,15,112,0,False
+phish_499,Security Alert,noreply@irs.gov,PayPal: Your account limited. Resolve: http://pcm.secure-4478.top/login LIMITED!!! FREE!!! ACT NOW! 48 hours,Phishing,12,108,1,False
+safe_473,Team Update,john@company.com,"Your profile has been updated successfully.
+
+Reference: project-945",Safe,8,67,0,True
+safe_7,Meeting Invitation,support@legit.com,"Payment receipt for your recent transaction of $475.
+
+Best regards,
+John Doe
+Coordinator
+
+Reference: comment-314",Safe,15,112,0,False
+phish_257,Notice,help@microsoft.com,Your Apple ID has been locked. Unlock: http://fxo.account-9188.ga/login URGENT!!! Refund  ACT NOW! immediately,Phishing,13,110,1,True
+phish_224,Important,admin@amazon.com,Exclusive offer! Limited time: http://dbo.update-8229.xyz/login SECURITY!!! UPDATE!!! PAYMENT!!! Congratulations  PASSWORD!!! ACT NOW! 24 hours,Phishing,14,143,1,True
+phish_423,Security Alert,security@bank.com,Your payment failed. Please update payment method: http://iwf.update-6979.top/login Payment  Exclusive  CLICK!!! Update  ACT NOW! 24 hours,Phishing,16,138,1,True
+phish_78,URGENT,security@bank.com,Account suspended. Reactivate now: http://secure-2504.top/login Free  SECURITY!!! SUSPENDED!!! Password  EXCLUSIVE!!! Bank ,Phishing,11,123,1,True
+phish_67,Important,noreply@irs.gov,Your Apple ID has been locked. Unlock: http://dnw.secure-9045.ml/login Update  CLICK!!!,Phishing,10,87,1,True
+phish_352,Action Required,help@microsoft.com,Microsoft: Security update required. Download: http://fgl.update-6690.xyz/login Update  ALERT!!! ACT NOW! 24 hours,Phishing,12,114,1,True
+safe_322,Project Update,info@business.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Reference: purchase-445",Safe,13,96,0,False
+phish_45,Security Alert,support@paypal.com,URGENT: Your account has been compromised. Click here to verify: http://secure-3586.xyz/login Security  Refund ,Phishing,13,111,1,True
+phish_112,URGENT,support@paypal.com,URGENT: Your account has been compromised. Click here to verify: http://oyt.verify-8620.tk/login Exclusive  PRIZE!!!,Phishing,13,116,1,True
+phish_196,Notice,security@bank.com,Exclusive offer! Limited time: http://ndk.secure-4179.xyz/login URGENT!!! Password  ACT NOW! 48 hours,Phishing,11,101,1,True
+phish_284,Important,admin@amazon.com,Exclusive offer! Limited time: http://update-8713.top/login CLICK!!! Free  Payment  Verify  WINNER!!! ACT NOW! immediately,Phishing,13,122,1,True
+phish_153,Important,security@bank.com,URGENT: Your account has been compromised. Click here to verify: http://verify-7187.ga/login Limited time  FREE!!! ALERT!!!,Phishing,15,123,1,True
+phish_273,Action Required,service@apple.com,Your payment failed. Please update payment method: http://xgl.secure-7444.xyz/login Bank  Password  Urgent  ACT NOW! 48 hours,Phishing,15,125,1,True
+safe_199,Welcome,info@business.com,Payment receipt for your recent transaction of $239.,Safe,8,52,0,False
+phish_303,URGENT,security@bank.com,Your Netflix subscription expired. Renew: http://verify-4510.ml/login Prize  Alert  PASSWORD!!! Bank ,Phishing,10,101,1,True
+phish_103,URGENT,noreply@irs.gov,URGENT: Your account has been compromised. Click here to verify: http://secure-5909.top/login Security  VERIFY!!! Urgent  ACCOUNT!!! ACT NOW! 48 hours,Phishing,19,150,1,True
+safe_29,Invoice,team@work.com,Your order #68244 has been shipped. Tracking number: 3J8T0WDBZB,Safe,9,63,0,False
+safe_423,Welcome,support@legit.com,"Your password was successfully changed. If this wasn't you, contact support.
+
+Best regards,
+Sarah Smith
+Coordinator
+
+Reference: purchase-430",Safe,18,140,0,False
+safe_309,Monthly Report,john@company.com,Project update: We're ahead of schedule!,Safe,6,40,0,True
+safe_261,Newsletter,manager@office.com,Team meeting notes from today's discussion.,Safe,6,43,0,False
+phish_358,Action Required,noreply@irs.gov,Security Alert: Your password needs reset. Visit: http://ljm.verify-4953.xyz/login Congratulations  Prize  Alert  Bank  CLICK!!! ACT NOW! 24 hours,Phishing,17,146,1,True
+safe_425,Team Update,john@company.com,"Your subscription has been renewed for another month.
+
+Best regards,
+Sarah Smith
+Team Lead
+
+Reference: report-815",Safe,16,113,0,False
+phish_329,Security Alert,noreply@irs.gov,Account suspended. Reactivate now: http://hfw.update-9920.top/login Suspended  REFUND!!! VERIFY!!!,Phishing,8,98,1,True
+safe_204,Monthly Report,team@work.com,"Weekly status report is ready for review.
+
+Best regards,
+Sarah Smith
+Team Lead",Safe,13,78,0,False
+safe_269,Meeting Invitation,info@business.com,"Your subscription has been renewed for another month.
+
+Reference: purchase-808",Safe,10,78,0,False
+safe_37,Monthly Report,john@company.com,"Weekly status report is ready for review.
+
+Best regards,
+Mike Johnson
+Coordinator",Safe,12,81,0,False
+phish_387,Notice,admin@amazon.com,Account suspended. Reactivate now: http://urj.account-7146.top/login SECURITY!!! SUSPENDED!!! Limited time  Prize  CONFIRM!!! ACT NOW! 24 hours,Phishing,15,143,1,True
+phish_201,Security Alert,help@microsoft.com,Your Apple ID has been locked. Unlock: http://verify-2375.ml/login ACCOUNT!!! URGENT!!! ACT NOW! immediately,Phishing,13,108,1,True
+safe_34,Invoice,manager@office.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Reference: comment-442",Safe,15,93,0,False
+safe_398,Monthly Report,john@company.com,Team meeting notes from today's discussion.,Safe,6,43,0,False
+phish_193,Important,service@apple.com,Your payment failed. Please update payment method: http://verify-7481.tk/login Click  BANK!!! SECURITY!!! EXCLUSIVE!!! Limited ,Phishing,13,127,1,True
+phish_84,Important,service@apple.com,PayPal: Your account limited. Resolve: http://account-2386.ga/login Confirm  Payment  Refund  URGENT!!! ACT NOW! 48 hours,Phishing,14,121,1,True
+phish_372,Important,service@apple.com,Your payment failed. Please update payment method: http://update-4919.tk/login Password  Prize  ACT NOW! immediately,Phishing,13,116,1,True
+phish_108,Security Alert,admin@amazon.com,Your bank account requires verification: http://ipk.update-8519.xyz/login Urgent  CLICK!!! ACT NOW! 48 hours,Phishing,12,108,1,True
+safe_457,Newsletter,john@company.com,"Your profile has been updated successfully.
+
+Best regards,
+Mike Johnson
+Team Lead
+
+Reference: project-972",Safe,14,105,0,True
+phish_9,Notice,admin@amazon.com,FedEx: Package delivery failed. Track: http://bank-6977.ga/login Payment  CLICK!!! FREE!!!,Phishing,9,90,1,True
+safe_334,Welcome,support@legit.com,Payment receipt for your recent transaction of $273.,Safe,8,52,0,False
+safe_311,Team Update,team@work.com,"Weekly status report is ready for review.
+
+Best regards,
+Mike Johnson
+Director",Safe,12,78,0,False
+phish_131,URGENT,admin@amazon.com,Security Alert: Your password needs reset. Visit: http://verify-9746.ml/login Confirm  FREE!!! WINNER!!! PAYMENT!!! BANK!!! Prize ,Phishing,14,130,1,True
+phish_375,URGENT,service@apple.com,Congratulations! You won a prize. Claim now: http://bank-4001.xyz/login Confirm  FREE!!! ACCOUNT!!!,Phishing,11,99,1,False
+phish_287,Security Alert,admin@amazon.com,Microsoft: Security update required. Download: http://tzq.account-4934.ml/login PAYMENT!!! Update  SUSPENDED!!! Verify  CONFIRM!!! LIMITED!!!,Phishing,12,141,1,True
+safe_51,Order Confirmation,manager@office.com,"Your subscription has been renewed for another month.
+
+Best regards,
+John Doe
+Team Lead
+
+Reference: project-369",Safe,16,111,0,False
+safe_225,Project Update,support@legit.com,Payment receipt for your recent transaction of $383.,Safe,8,52,0,False
+safe_78,Meeting Invitation,team@work.com,Your subscription has been renewed for another month.,Safe,8,53,0,False
+safe_379,Team Update,noreply@service.com,Team meeting notes from today's discussion.,Safe,6,43,0,False
+phish_250,URGENT,support@paypal.com,URGENT: Your account has been compromised. Click here to verify: http://update-5027.xyz/login Suspended  LIMITED TIME!!! Prize  Exclusive  Free  Refund ,Phishing,18,152,1,True
+phish_160,Action Required,admin@amazon.com,Microsoft: Security update required. Download: http://secure-2588.xyz/login UPDATE!!! VERIFY!!! Confirm  SUSPENDED!!! ACT NOW! 48 hours,Phishing,14,135,1,True
+safe_42,Welcome,manager@office.com,"Monthly newsletter: Check out our latest updates and features.
+
+Best regards,
+Emily Davis
+Director
+
+Reference: newsletter-822",Safe,16,125,0,True
+safe_201,Invoice,info@business.com,"Your password was successfully changed. If this wasn't you, contact support.
+
+Best regards,
+Emily Davis
+Team Lead",Safe,17,113,0,False
+phish_230,URGENT,admin@amazon.com,Security Alert: Your password needs reset. Visit: http://ozw.verify-4577.ga/login UPDATE!!! Free  Verify  Congratulations ,Phishing,12,122,1,True
+phish_285,Important,noreply@irs.gov,Exclusive offer! Limited time: http://paf.verify-9940.top/login Bank  CONGRATULATIONS!!! Payment  ACCOUNT!!! UPDATE!!! LIMITED!!! ACT NOW! 48 hours,Phishing,15,147,1,True
+safe_301,Welcome,noreply@service.com,"Team meeting notes from today's discussion.
+
+Best regards,
+John Doe
+Team Lead
+
+Reference: profile-588",Safe,14,101,0,False
+phish_452,Notice,admin@amazon.com,Your payment failed. Please update payment method: http://uwb.update-2676.tk/login VERIFY!!! Free  Payment  CLICK!!! URGENT!!! ACT NOW! immediately,Phishing,16,147,1,True
+safe_160,Invoice,team@work.com,"Your subscription has been renewed for another month.
+
+Best regards,
+Emily Davis
+Manager
+
+Reference: team-112",Safe,15,109,0,False
+phish_427,Security Alert,help@microsoft.com,URGENT: Your account has been compromised. Click here to verify: http://kao.secure-2254.ga/login Payment  Limited  FREE!!! Security  ACT NOW! 24 hours,Phishing,19,150,1,True
+phish_42,Action Required,noreply@irs.gov,Your Netflix subscription expired. Renew: http://secure-4489.tk/login EXCLUSIVE!!! Winner ,Phishing,8,90,1,False
+phish_283,Important,support@paypal.com,Amazon: Order confirmation needed. Verify: http://tvk.account-4368.ml/login Bank  REFUND!!! FREE!!! UPDATE!!!,Phishing,10,109,1,True
+safe_453,Order Confirmation,support@legit.com,"Welcome to our service! Here's how to get started.
+
+Best regards,
+Mike Johnson
+Team Lead",Safe,15,88,0,False
+phish_371,Important,admin@amazon.com,Exclusive offer! Limited time: http://yrx.verify-7320.tk/login REFUND!!! PAYMENT!!! ACT NOW! 48 hours,Phishing,11,101,1,True
+safe_10,Monthly Report,info@business.com,"Your account balance is $4190
+
+Reference: profile-685",Safe,7,53,0,False
+safe_82,Team Update,john@company.com,Weekly status report is ready for review.,Safe,7,41,0,False
+safe_424,Welcome,team@work.com,"Payment receipt for your recent transaction of $166.
+
+Best regards,
+John Doe
+Manager",Safe,13,84,0,False
+phish_240,Important,security@bank.com,FedEx: Package delivery failed. Track: http://bank-7106.top/login VERIFY!!! Free  ACCOUNT!!! Limited time  Alert  REFUND!!! ACT NOW! 24 hours,Phishing,17,141,1,True
+safe_375,Newsletter,john@company.com,"Payment receipt for your recent transaction of $248.
+
+Reference: report-181",Safe,10,75,0,False
+safe_296,Order Confirmation,info@business.com,"Project update: We're ahead of schedule!
+
+Best regards,
+Mike Johnson
+Director
+
+Reference: comment-852",Safe,13,101,0,True
+safe_50,Invoice,support@legit.com,"Weekly status report is ready for review.
+
+Reference: update-898",Safe,9,64,0,True
+phish_115,Notice,support@paypal.com,"Dear customer, we noticed unusual activity. Please update your info: http://jec.verify-1734.top/login CLICK!!! UPDATE!!! Limited time  FREE!!! VERIFY!!! CONFIRM!!!",Phishing,18,163,1,True
+phish_282,Action Required,service@apple.com,Account suspended. Reactivate now: http://hds.account-2826.top/login Click  FREE!!! SUSPENDED!!! URGENT!!! PRIZE!!! VERIFY!!!,Phishing,11,125,1,True
+phish_406,Important,support@paypal.com,Microsoft: Security update required. Download: http://verify-8893.tk/login SUSPENDED!!! SECURITY!!! ACT NOW! 24 hours,Phishing,12,117,1,True
+safe_100,Welcome,support@legit.com,"New comment on your document: Looks good!
+
+Best regards,
+Emily Davis
+Team Lead",Safe,13,78,0,False
+phish_33,URGENT,service@apple.com,"Dear customer, we noticed unusual activity. Please update your info: http://verify-2684.xyz/login CLICK!!! Password  Account  URGENT!!! Limited  ALERT!!! ACT NOW! 24 hours",Phishing,21,171,1,True
+phish_436,Action Required,help@microsoft.com,Your Netflix subscription expired. Renew: http://update-9588.xyz/login SECURITY!!! Prize  ACCOUNT!!! CONGRATULATIONS!!! ACT NOW! immediately,Phishing,13,140,1,True
+safe_329,Newsletter,manager@office.com,"Monthly newsletter: Check out our latest updates and features.
+
+Best regards,
+Mike Johnson
+Team Lead
+
+Reference: profile-160",Safe,17,124,0,True
+safe_213,Monthly Report,john@company.com,Welcome to our service! Here's how to get started.,Safe,9,50,0,False
+phish_330,Action Required,noreply@irs.gov,Exclusive offer! Limited time: http://secure-5552.ga/login Password  Exclusive  Winner  PAYMENT!!! ACT NOW! 24 hours,Phishing,13,116,1,False
+safe_349,Meeting Invitation,noreply@service.com,"Your password was successfully changed. If this wasn't you, contact support.
+
+Reference: status-799",Safe,13,99,0,False
+safe_246,Monthly Report,manager@office.com,"Weekly status report is ready for review.
+
+Best regards,
+Sarah Smith
+Team Lead
+
+Reference: meeting-722",Safe,15,102,0,False
+phish_355,Security Alert,help@microsoft.com,Your Netflix subscription expired. Renew: http://yuy.secure-6982.xyz/login Exclusive  Verify  ACT NOW! 48 hours,Phishing,12,111,1,True
+safe_323,Welcome,support@legit.com,Project update: We're ahead of schedule!,Safe,6,40,0,True
+safe_299,Order Confirmation,support@legit.com,New comment on your document: Needs revision,Safe,7,44,0,False
+phish_413,Notice,help@microsoft.com,Your payment failed. Please update payment method: http://dgw.verify-7129.ga/login Payment  PASSWORD!!! Account ,Phishing,11,112,1,True
+phish_412,Important,admin@amazon.com,URGENT: Your account has been compromised. Click here to verify: http://vvc.bank-2125.ga/login EXCLUSIVE!!! Update  Bank  SECURITY!!! Limited time  ACT NOW! immediately,Phishing,20,168,1,True
+safe_222,Order Confirmation,manager@office.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Reference: report-884",Safe,15,92,0,False
+safe_92,Meeting Invitation,manager@office.com,"Team meeting notes from today's discussion.
+
+Reference: subscription-584",Safe,8,72,0,False
+safe_288,Monthly Report,info@business.com,"Your subscription has been renewed for another month.
+
+Best regards,
+Sarah Smith
+Team Lead",Safe,14,90,0,False
+safe_67,Newsletter,john@company.com,"Monthly newsletter: Check out our latest updates and features.
+
+Reference: invoice-551",Safe,11,86,0,True
+safe_320,Welcome,john@company.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+Mike Johnson
+Director
+
+Reference: meeting-985",Safe,16,115,0,False
+phish_184,Notice,security@bank.com,Your payment failed. Please update payment method: http://bnj.account-5223.tk/login Congratulations  Verify  CONFIRM!!! LIMITED!!! SUSPENDED!!! WINNER!!!,Phishing,14,153,1,True
+safe_464,Project Update,team@work.com,"Your profile has been updated successfully.
+
+Reference: newsletter-834",Safe,8,70,0,True
+safe_174,Welcome,support@legit.com,"Your password was successfully changed. If this wasn't you, contact support.
+
+Best regards,
+Sarah Smith
+Team Lead
+
+Reference: balance-571",Safe,19,137,0,False
+phish_180,URGENT,service@apple.com,Exclusive offer! Limited time: http://secure-7543.tk/login Urgent  EXCLUSIVE!!! Payment  PASSWORD!!! Prize  Alert  ACT NOW! 24 hours,Phishing,15,132,1,True
+phish_145,Action Required,noreply@irs.gov,Your bank account requires verification: http://secure-7868.xyz/login Security  Confirm ,Phishing,8,88,1,True
+phish_82,Security Alert,admin@amazon.com,Your payment failed. Please update payment method: http://update-8539.ga/login SECURITY!!! Exclusive  Password  CONFIRM!!! Refund ,Phishing,13,130,1,True
+safe_462,Welcome,team@work.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+Mike Johnson
+Director",Safe,14,91,0,False
+phish_204,Action Required,service@apple.com,Amazon: Order confirmation needed. Verify: http://update-2542.ml/login SUSPENDED!!! CONGRATULATIONS!!! Click  LIMITED!!! Prize  WINNER!!!,Phishing,12,137,1,True
+phish_157,Action Required,admin@amazon.com,Your payment failed. Please update payment method: http://hjo.account-2403.tk/login FREE!!! ALERT!!! URGENT!!! LIMITED!!! Confirm  ACT NOW! 24 hours,Phishing,17,148,1,True
+phish_167,Security Alert,support@paypal.com,Security Alert: Your password needs reset. Visit: http://obh.verify-3436.ml/login UPDATE!!! Winner  Limited  CONFIRM!!! EXCLUSIVE!!! SECURITY!!!,Phishing,14,144,1,True
+phish_161,URGENT,service@apple.com,Account suspended. Reactivate now: http://verify-7155.xyz/login EXCLUSIVE!!! Bank  Congratulations  REFUND!!! ACT NOW! 48 hours,Phishing,13,127,1,True
+safe_94,Project Update,info@business.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Best regards,
+Emily Davis
+Director",Safe,18,105,0,False
+safe_200,Order Confirmation,support@legit.com,"Your subscription has been renewed for another month.
+
+Best regards,
+John Doe
+Director
+
+Reference: project-527",Safe,15,110,0,False
+phish_263,Notice,support@paypal.com,Your bank account requires verification: http://ian.account-9019.ml/login CLICK!!! Suspended ,Phishing,8,93,1,True
+safe_129,Invoice,support@legit.com,"Your password was successfully changed. If this wasn't you, contact support.
+
+Best regards,
+Mike Johnson
+Director
+
+Reference: document-572",Safe,18,138,0,False
+safe_241,Welcome,noreply@service.com,Your profile has been updated successfully.,Safe,6,43,0,True
+phish_438,Notice,support@paypal.com,Microsoft: Security update required. Download: http://lph.update-9943.ml/login SUSPENDED!!! UPDATE!!! Password  Alert  ACT NOW! 24 hours,Phishing,14,136,1,True
+phish_395,Notice,noreply@irs.gov,Your Netflix subscription expired. Renew: http://gia.secure-3573.tk/login SUSPENDED!!! Password  Security  Verify  ACCOUNT!!! WINNER!!!,Phishing,12,135,1,True
+phish_385,Notice,service@apple.com,Exclusive offer! Limited time: http://verify-8444.ga/login CONGRATULATIONS!!! CLICK!!! Payment  Limited time  PRIZE!!! CONFIRM!!!,Phishing,12,129,1,True
+phish_24,URGENT,help@microsoft.com,Your payment failed. Please update payment method: http://secure-4651.tk/login ACCOUNT!!! Password  Payment  REFUND!!! Verify  Confirm  ACT NOW! 24 hours,Phishing,18,153,1,True
+safe_298,Invoice,support@legit.com,"Project update: We're ahead of schedule!
+
+Best regards,
+Mike Johnson
+Team Lead",Safe,12,78,0,True
+phish_256,Important,security@bank.com,Congratulations! You won a prize. Claim now: http://nvh.account-7298.tk/login URGENT!!! LIMITED TIME!!! PRIZE!!! Click ,Phishing,13,119,1,True
+phish_218,Action Required,help@microsoft.com,Exclusive offer! Limited time: http://update-9703.top/login ALERT!!! UPDATE!!! ACT NOW! immediately,Phishing,10,99,1,True
+safe_68,Welcome,john@company.com,"Welcome to our service! Here's how to get started.
+
+Best regards,
+John Doe
+Director
+
+Reference: receipt-515",Safe,16,107,0,False
+phish_38,Security Alert,service@apple.com,Your Apple ID has been locked. Unlock: http://verify-6517.ml/login EXCLUSIVE!!! Congratulations  FREE!!! ACT NOW! 48 hours,Phishing,15,122,1,True
+safe_244,Order Confirmation,info@business.com,"Your password was successfully changed. If this wasn't you, contact support.
+
+Best regards,
+Emily Davis
+Team Lead
+
+Reference: subscription-863",Safe,19,142,0,False
+safe_496,Team Update,manager@office.com,"Your password was successfully changed. If this wasn't you, contact support.
+
+Reference: order-861",Safe,13,98,0,False
+safe_11,Invoice,manager@office.com,"Weekly status report is ready for review.
+
+Best regards,
+Mike Johnson
+Director
+
+Reference: report-770",Safe,14,101,0,False
+phish_23,Notice,service@apple.com,Congratulations! You won a prize. Claim now: http://xfp.bank-3504.ml/login Exclusive  Password  ACT NOW! 24 hours,Phishing,14,113,1,False
+safe_444,Team Update,manager@office.com,Thank you for your purchase! Your invoice is attached.,Safe,9,54,0,False
+safe_137,Welcome,john@company.com,"Monthly newsletter: Check out our latest updates and features.
+
+Reference: newsletter-644",Safe,11,89,0,True
+safe_203,Meeting Invitation,support@legit.com,"Weekly status report is ready for review.
+
+Best regards,
+Sarah Smith
+Director
+
+Reference: project-753",Safe,14,101,0,False
+phish_121,Security Alert,security@bank.com,URGENT: Your account has been compromised. Click here to verify: http://wkt.verify-4975.xyz/login EXCLUSIVE!!! SUSPENDED!!! Alert  PRIZE!!! Password  VERIFY!!!,Phishing,17,159,1,True
+safe_287,Team Update,noreply@service.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Best regards,
+Sarah Smith
+Manager
+
+Reference: order-560",Safe,20,126,0,False
+phish_102,URGENT,security@bank.com,Congratulations! You won a prize. Claim now: http://ujy.secure-6048.ga/login ALERT!!! Winner  FREE!!! Account  Urgent  ACT NOW! 24 hours,Phishing,17,136,1,True
+phish_486,URGENT,service@apple.com,Security Alert: Your password needs reset. Visit: http://val.bank-9473.tk/login Account  Urgent  Click  ACT NOW! immediately,Phishing,14,124,1,True
+safe_472,Welcome,noreply@service.com,"Your subscription has been renewed for another month.
+
+Reference: profile-505",Safe,10,77,0,False
+safe_395,Order Confirmation,team@work.com,Project update: We're ahead of schedule!,Safe,6,40,0,True
+safe_134,Meeting Invitation,team@work.com,"Your profile has been updated successfully.
+
+Reference: newsletter-246",Safe,8,70,0,True
+safe_69,Invoice,team@work.com,Weekly status report is ready for review.,Safe,7,41,0,False
+phish_226,Notice,support@paypal.com,Account suspended. Reactivate now: http://urc.account-3274.top/login BANK!!! EXCLUSIVE!!! Congratulations  Refund  SECURITY!!!,Phishing,10,126,1,True
+safe_276,Project Update,team@work.com,"New comment on your document: Looks good!
+
+Best regards,
+Sarah Smith
+Director
+
+Reference: review-798",Safe,14,100,0,False
+safe_415,Order Confirmation,noreply@service.com,"Payment receipt for your recent transaction of $101.
+
+Reference: subscription-666",Safe,10,81,0,False
+safe_267,Newsletter,manager@office.com,Your account balance is $2808,Safe,5,29,0,False
+phish_110,Important,noreply@irs.gov,Security Alert: Your password needs reset. Visit: http://verify-9706.xyz/login LIMITED TIME!!! PASSWORD!!! CONFIRM!!! URGENT!!!,Phishing,13,127,1,True
+phish_288,Security Alert,support@paypal.com,Security Alert: Your password needs reset. Visit: http://secure-1614.xyz/login SUSPENDED!!! Security  WINNER!!!,Phishing,11,111,1,True
+phish_91,Notice,support@paypal.com,URGENT: Your account has been compromised. Click here to verify: http://viu.bank-3989.xyz/login PRIZE!!! Account  Free  REFUND!!!,Phishing,15,129,1,True
+phish_335,Notice,service@apple.com,URGENT: Your account has been compromised. Click here to verify: http://bank-9563.ga/login Exclusive  CLICK!!! ALERT!!! Account  ACT NOW! 48 hours,Phishing,19,146,1,True
+safe_142,Team Update,support@legit.com,"Your order #78525 has been shipped. Tracking number: 86KZGNG0WH
+
+Reference: newsletter-495",Safe,11,90,0,False
+safe_422,Team Update,manager@office.com,"Thank you for your purchase! Your invoice is attached.
+
+Reference: update-222",Safe,11,77,0,True
+phish_154,Action Required,support@paypal.com,URGENT: Your account has been compromised. Click here to verify: http://gfo.update-5752.ga/login PAYMENT!!! URGENT!!! VERIFY!!! Suspended  PASSWORD!!! Exclusive  ACT NOW! 24 hours,Phishing,21,179,1,True
+safe_46,Welcome,john@company.com,Project update: We're ahead of schedule!,Safe,6,40,0,True
+safe_83,Invoice,support@legit.com,Thank you for your purchase! Your invoice is attached.,Safe,9,54,0,False
+phish_151,Notice,security@bank.com,IRS Notice: Tax refund pending. Click: http://bank-5393.xyz/login Security  Congratulations  ACT NOW! 48 hours,Phishing,13,110,1,True
+safe_348,Team Update,noreply@service.com,"Project update: We're ahead of schedule!
+
+Best regards,
+Emily Davis
+Director",Safe,11,76,0,True
+phish_380,Action Required,security@bank.com,PayPal: Your account limited. Resolve: http://bank-6772.top/login URGENT!!! CONFIRM!!! FREE!!! ACT NOW! 24 hours,Phishing,13,112,1,True
+safe_494,Welcome,noreply@service.com,Your subscription has been renewed for another month.,Safe,8,53,0,False
+safe_187,Team Update,support@legit.com,"Team meeting notes from today's discussion.
+
+Best regards,
+Emily Davis
+Manager",Safe,11,78,0,False
+safe_260,Project Update,manager@office.com,Welcome to our service! Here's how to get started.,Safe,9,50,0,False
+phish_262,URGENT,service@apple.com,Exclusive offer! Limited time: http://syg.bank-6122.ml/login EXCLUSIVE!!! Account  Congratulations  ALERT!!! Payment  ACT NOW! immediately,Phishing,13,138,1,True
+safe_270,Project Update,john@company.com,New comment on your document: Needs revision,Safe,7,44,0,False
+phish_221,Notice,support@paypal.com,PayPal: Your account limited. Resolve: http://dqr.bank-1578.top/login Security  LIMITED!!! FREE!!! Limited time  ACT NOW! 48 hours,Phishing,15,130,1,True
+phish_98,Security Alert,noreply@irs.gov,Your bank account requires verification: http://dcs.secure-1290.xyz/login ALERT!!! Suspended  ACT NOW! immediately,Phishing,11,114,1,True
+safe_405,Meeting Invitation,noreply@service.com,"New comment on your document: Looks good!
+
+Reference: team-893",Safe,9,62,0,False
+safe_95,Order Confirmation,support@legit.com,"Your profile has been updated successfully.
+
+Best regards,
+Mike Johnson
+Director",Safe,11,80,0,True
+phish_126,Important,admin@amazon.com,Exclusive offer! Limited time: http://update-1608.xyz/login Urgent  Exclusive  WINNER!!!,Phishing,8,88,1,True
+phish_247,Important,security@bank.com,Your Apple ID has been locked. Unlock: http://secure-5065.xyz/login CONFIRM!!! CONGRATULATIONS!!! Free  CLICK!!! Verify  Bank ,Phishing,14,126,1,True
+safe_345,Welcome,support@legit.com,"Project update: We're ahead of schedule!
+
+Best regards,
+John Doe
+Team Lead",Safe,12,74,0,True
+safe_139,Welcome,support@legit.com,"Payment receipt for your recent transaction of $389.
+
+Best regards,
+John Doe
+Director",Safe,13,85,0,False
+phish_466,Important,admin@amazon.com,Your bank account requires verification: http://tic.account-2567.xyz/login Security  Update  PASSWORD!!! Account  Winner  Prize ,Phishing,12,128,1,True
+safe_32,Newsletter,noreply@service.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+Sarah Smith
+Team Lead
+
+Reference: project-387",Safe,17,115,0,False
+safe_205,Welcome,info@business.com,"Weekly status report is ready for review.
+
+Best regards,
+Mike Johnson
+Manager
+
+Reference: subscription-744",Safe,14,106,0,False
+phish_415,Notice,admin@amazon.com,Your bank account requires verification: http://update-1197.xyz/login Prize  Click  Account  Refund  EXCLUSIVE!!! ACT NOW! 48 hours,Phishing,15,131,1,True
+safe_157,Monthly Report,support@legit.com,"New comment on your document: Approved
+
+Reference: newsletter-348",Safe,8,65,0,False
+safe_401,Team Update,info@business.com,New comment on your document: Please review,Safe,7,43,0,False
+phish_3,URGENT,support@paypal.com,"Dear customer, we noticed unusual activity. Please update your info: http://verify-2596.xyz/login REFUND!!! UPDATE!!! FREE!!! Password ",Phishing,15,135,1,True
+phish_83,Important,security@bank.com,Your Netflix subscription expired. Renew: http://update-8166.top/login LIMITED!!! ACCOUNT!!! PASSWORD!!! Limited time ,Phishing,11,118,1,True
+safe_112,Meeting Invitation,john@company.com,"Your password was successfully changed. If this wasn't you, contact support.
+
+Reference: update-531",Safe,13,99,0,True
+phish_52,URGENT,help@microsoft.com,Your Netflix subscription expired. Renew: http://ucy.secure-9842.ga/login PASSWORD!!! Winner  ACT NOW! 24 hours,Phishing,12,111,1,False
+safe_237,Newsletter,team@work.com,"Monthly newsletter: Check out our latest updates and features.
+
+Best regards,
+Sarah Smith
+Director",Safe,14,98,0,True
+safe_414,Project Update,info@business.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+Emily Davis
+Team Lead
+
+Reference: document-720",Safe,17,116,0,False
+phish_321,Action Required,support@paypal.com,URGENT: Your account has been compromised. Click here to verify: http://account-7655.top/login Confirm  BANK!!! WINNER!!! Limited  PRIZE!!!,Phishing,16,139,1,True
+phish_34,Notice,support@paypal.com,Account suspended. Reactivate now: http://kyt.update-9811.ml/login LIMITED TIME!!! Alert  BANK!!! Verify  FREE!!!,Phishing,11,113,1,True
+safe_162,Meeting Invitation,manager@office.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Best regards,
+John Doe
+Director",Safe,16,104,0,False
+safe_352,Team Update,manager@office.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Best regards,
+Sarah Smith
+Director
+
+Reference: project-557",Safe,20,129,0,False
+phish_144,Security Alert,help@microsoft.com,Microsoft: Security update required. Download: http://verify-7321.ml/login VERIFY!!! ACCOUNT!!! Refund  Security  LIMITED!!! Free ,Phishing,12,130,1,True
+phish_148,Action Required,service@apple.com,URGENT: Your account has been compromised. Click here to verify: http://jah.bank-7871.xyz/login Security  Limited  Suspended  Refund  Alert ,Phishing,16,140,1,True
+safe_356,Meeting Invitation,noreply@service.com,"Project update: We're ahead of schedule!
+
+Best regards,
+John Doe
+Director",Safe,11,73,0,True
+safe_446,Welcome,noreply@service.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Best regards,
+Emily Davis
+Team Lead
+
+Reference: balance-903",Safe,21,130,0,False
+phish_97,URGENT,support@paypal.com,Exclusive offer! Limited time: http://account-6233.ga/login Limited time  ALERT!!! BANK!!! Congratulations  URGENT!!!,Phishing,11,117,1,True
+phish_336,Security Alert,service@apple.com,Account suspended. Reactivate now: http://account-1680.ga/login URGENT!!! Alert  Limited  FREE!!! Update  Suspended  ACT NOW! immediately,Phishing,14,137,1,True
+safe_283,Team Update,info@business.com,"Welcome to our service! Here's how to get started.
+
+Best regards,
+Emily Davis
+Team Lead",Safe,15,87,0,False
+phish_368,Security Alert,admin@amazon.com,Microsoft: Security update required. Download: http://tqc.verify-2117.top/login Update  Click  CONGRATULATIONS!!! Prize  Urgent  Payment ,Phishing,12,137,1,True
+phish_113,URGENT,service@apple.com,FedEx: Package delivery failed. Track: http://zte.update-5385.xyz/login Limited  PASSWORD!!! ACT NOW! 24 hours,Phishing,12,110,1,True
+safe_223,Project Update,noreply@service.com,"Welcome to our service! Here's how to get started.
+
+Best regards,
+Sarah Smith
+Manager
+
+Reference: order-939",Safe,16,107,0,False
+phish_402,Security Alert,noreply@irs.gov,Your bank account requires verification: http://pwp.secure-5170.ga/login Account  SECURITY!!! ACT NOW! immediately,Phishing,11,114,1,True
+safe_183,Project Update,manager@office.com,"Your profile has been updated successfully.
+
+Best regards,
+John Doe
+Coordinator
+
+Reference: report-588",Safe,13,102,0,True
+phish_12,Notice,security@bank.com,FedEx: Package delivery failed. Track: http://verify-8226.ml/login UPDATE!!! Limited time  WINNER!!!,Phishing,10,100,1,True
+phish_498,Notice,help@microsoft.com,Account suspended. Reactivate now: http://secure-9813.xyz/login Winner  ALERT!!! Account  Verify ,Phishing,9,97,1,True
+safe_224,Order Confirmation,noreply@service.com,New comment on your document: Looks good!,Safe,7,41,0,False
+safe_282,Meeting Invitation,noreply@service.com,"Team meeting notes from today's discussion.
+
+Best regards,
+John Doe
+Manager
+
+Reference: balance-517",Safe,13,99,0,False
+phish_94,Important,noreply@irs.gov,Your Apple ID has been locked. Unlock: http://update-8133.top/login PASSWORD!!! Free ,Phishing,10,85,1,True
+safe_1,Newsletter,info@business.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+John Doe
+Manager
+
+Reference: status-692",Safe,16,109,0,False
+safe_385,Meeting Invitation,noreply@service.com,"Monthly newsletter: Check out our latest updates and features.
+
+Best regards,
+Emily Davis
+Manager
+
+Reference: receipt-330",Safe,16,121,0,True
+safe_26,Monthly Report,noreply@service.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Best regards,
+John Doe
+Manager
+
+Reference: status-263",Safe,20,124,0,False
+phish_420,Security Alert,service@apple.com,FedEx: Package delivery failed. Track: http://secure-7465.top/login UPDATE!!! CONFIRM!!! LIMITED TIME!!! PRIZE!!! ACT NOW! immediately,Phishing,14,134,1,True
+phish_347,Notice,help@microsoft.com,FedEx: Package delivery failed. Track: http://gby.secure-7905.top/login Suspended  Verify  Security ,Phishing,9,100,1,True
+safe_242,Monthly Report,noreply@service.com,"Your order #29898 has been shipped. Tracking number: XZ7UEN2XLJ
+
+Best regards,
+Mike Johnson
+Team Lead
+
+Reference: update-458",Safe,17,124,0,True
+safe_25,Team Update,noreply@service.com,"Project update: We're ahead of schedule!
+
+Reference: comment-263",Safe,8,64,0,True
+phish_236,Security Alert,security@bank.com,Your Apple ID has been locked. Unlock: http://vmq.verify-4414.ga/login URGENT!!! Click ,Phishing,10,87,1,True
+phish_493,URGENT,support@paypal.com,Amazon: Order confirmation needed. Verify: http://pik.bank-8811.tk/login Exclusive  Security ,Phishing,8,93,1,True
+phish_212,Security Alert,admin@amazon.com,Your bank account requires verification: http://account-4474.tk/login Password  Confirm  SECURITY!!! PAYMENT!!!,Phishing,10,111,1,True
+phish_476,Important,security@bank.com,PayPal: Your account limited. Resolve: http://mym.secure-1515.ml/login Refund  LIMITED TIME!!! ALERT!!! SUSPENDED!!! Winner  ACT NOW! immediately,Phishing,15,145,1,True
+phish_491,Security Alert,support@paypal.com,IRS Notice: Tax refund pending. Click: http://bzl.account-2654.xyz/login Free  URGENT!!! LIMITED TIME!!! Update ,Phishing,12,112,1,True
+phish_35,Action Required,support@paypal.com,IRS Notice: Tax refund pending. Click: http://secure-8848.ga/login CONGRATULATIONS!!! Alert  PAYMENT!!! LIMITED!!!,Phishing,11,114,1,True
+phish_266,Action Required,help@microsoft.com,Exclusive offer! Limited time: http://tmr.update-6980.top/login CONGRATULATIONS!!! Exclusive  Bank  CLICK!!! PAYMENT!!!,Phishing,10,119,1,True
+phish_446,URGENT,security@bank.com,IRS Notice: Tax refund pending. Click: http://vti.secure-9502.top/login Bank  UPDATE!!! SECURITY!!! PASSWORD!!! ACT NOW! 48 hours,Phishing,15,129,1,True
+safe_4,Newsletter,noreply@service.com,"Monthly newsletter: Check out our latest updates and features.
+
+Best regards,
+Emily Davis
+Director",Safe,14,98,0,True
+safe_144,Welcome,team@work.com,"Project update: We're ahead of schedule!
+
+Best regards,
+Mike Johnson
+Team Lead",Safe,12,78,0,True
+safe_308,Monthly Report,manager@office.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Best regards,
+Mike Johnson
+Manager
+
+Reference: subscription-445",Safe,20,134,0,False
+safe_109,Welcome,manager@office.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Reference: balance-500",Safe,15,93,0,False
+phish_332,Security Alert,support@paypal.com,URGENT: Your account has been compromised. Click here to verify: http://account-8952.top/login PRIZE!!! Bank  LIMITED!!! WINNER!!! EXCLUSIVE!!! PAYMENT!!!,Phishing,17,154,1,True
+phish_141,Important,service@apple.com,Account suspended. Reactivate now: http://update-6026.top/login Password  WINNER!!! BANK!!! URGENT!!! FREE!!! LIMITED!!! ACT NOW! immediately,Phishing,14,141,1,True
+safe_370,Order Confirmation,noreply@service.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+Mike Johnson
+Coordinator
+
+Reference: purchase-137",Safe,16,119,0,False
+safe_71,Monthly Report,manager@office.com,"Payment receipt for your recent transaction of $283.
+
+Reference: status-787",Safe,10,75,0,False
+phish_259,URGENT,security@bank.com,Your payment failed. Please update payment method: http://bank-8708.ml/login URGENT!!! Click  PRIZE!!! CONFIRM!!! Winner  ACT NOW! 48 hours,Phishing,17,139,1,True
+phish_399,Notice,admin@amazon.com,Congratulations! You won a prize. Claim now: http://zbr.secure-5405.tk/login FREE!!! Congratulations  Security  Prize  Alert  ACT NOW! 48 hours,Phishing,17,143,1,True
+safe_123,Team Update,john@company.com,Your profile has been updated successfully.,Safe,6,43,0,True
+phish_325,Notice,noreply@irs.gov,"Dear customer, we noticed unusual activity. Please update your info: http://ama.account-5572.tk/login BANK!!! Free  Alert  Prize ",Phishing,15,129,1,True
+phish_158,Action Required,help@microsoft.com,Your payment failed. Please update payment method: http://mhc.account-2086.xyz/login Alert  Confirm  REFUND!!!,Phishing,11,110,1,True
+phish_278,URGENT,support@paypal.com,FedEx: Package delivery failed. Track: http://bank-9920.xyz/login Free  Update ,Phishing,8,79,1,True
+safe_98,Newsletter,noreply@service.com,"Payment receipt for your recent transaction of $15.
+
+Best regards,
+Emily Davis
+Coordinator
+
+Reference: status-185",Safe,15,113,0,False
+phish_279,Security Alert,noreply@irs.gov,Your bank account requires verification: http://update-9456.ml/login Alert  Congratulations  Limited  Free ,Phishing,10,107,1,True
+phish_265,Action Required,service@apple.com,"Dear customer, we noticed unusual activity. Please update your info: http://account-5762.ga/login VERIFY!!! Password  ACT NOW! 48 hours",Phishing,17,135,1,True
+phish_252,Action Required,service@apple.com,Congratulations! You won a prize. Claim now: http://xjs.verify-9073.tk/login Alert  Limited  PAYMENT!!! LIMITED TIME!!!,Phishing,13,119,1,True
+safe_181,Monthly Report,info@business.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+Mike Johnson
+Manager
+
+Reference: review-117",Safe,16,113,0,False
+phish_379,Notice,admin@amazon.com,"Dear customer, we noticed unusual activity. Please update your info: http://verify-2382.top/login Click  Congratulations  UPDATE!!! Confirm  Exclusive ",Phishing,16,151,1,True
+safe_146,Team Update,john@company.com,"Your account balance is $159
+
+Best regards,
+John Doe
+Coordinator
+
+Reference: profile-202",Safe,12,88,0,False
+safe_230,Team Update,support@legit.com,Thank you for your purchase! Your invoice is attached.,Safe,9,54,0,False
+phish_11,URGENT,help@microsoft.com,"Dear customer, we noticed unusual activity. Please update your info: http://verify-6110.ml/login Prize  EXCLUSIVE!!! ACT NOW! immediately",Phishing,16,137,1,True
+safe_455,Invoice,john@company.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Reference: balance-715",Safe,13,95,0,False
+safe_96,Newsletter,manager@office.com,"Monthly newsletter: Check out our latest updates and features.
+
+Best regards,
+Mike Johnson
+Manager
+
+Reference: report-424",Safe,16,121,0,True
+safe_57,Project Update,team@work.com,"Your profile has been updated successfully.
+
+Best regards,
+John Doe
+Team Lead",Safe,12,77,0,True
+safe_434,Project Update,info@business.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Best regards,
+Emily Davis
+Coordinator
+
+Reference: meeting-650",Safe,20,132,0,False
+phish_85,Notice,help@microsoft.com,IRS Notice: Tax refund pending. Click: http://ura.verify-1396.ga/login Confirm  Limited time  Prize  ACT NOW! 48 hours,Phishing,15,118,1,True
+phish_464,Important,admin@amazon.com,Amazon: Order confirmation needed. Verify: http://rjw.verify-1799.tk/login Confirm  LIMITED TIME!!! SUSPENDED!!!,Phishing,10,112,1,True
+safe_373,Invoice,manager@office.com,"Your profile has been updated successfully.
+
+Best regards,
+Emily Davis
+Manager",Safe,11,78,0,True
+phish_146,Security Alert,help@microsoft.com,Your bank account requires verification: http://account-3177.top/login Exclusive  Account  ACT NOW! 24 hours,Phishing,12,108,1,False
+safe_304,Invoice,team@work.com,"Weekly status report is ready for review.
+
+Best regards,
+Emily Davis
+Manager
+
+Reference: receipt-663",Safe,14,100,0,False
+phish_392,Important,admin@amazon.com,IRS Notice: Tax refund pending. Click: http://verify-4878.top/login Click  CONFIRM!!! SECURITY!!! Refund  Update  WINNER!!!,Phishing,13,123,1,True
+safe_138,Invoice,info@business.com,Project update: We're ahead of schedule!,Safe,6,40,0,True
+phish_89,Notice,support@paypal.com,Security Alert: Your password needs reset. Visit: http://rjk.secure-1646.tk/login UPDATE!!! Account  Suspended  Password ,Phishing,12,121,1,True
+phish_425,URGENT,help@microsoft.com,URGENT: Your account has been compromised. Click here to verify: http://secure-9050.top/login Limited  CONGRATULATIONS!!! ACT NOW! 24 hours,Phishing,17,139,1,True
+phish_482,Security Alert,noreply@irs.gov,Your Netflix subscription expired. Renew: http://secure-7553.ga/login UPDATE!!! Security  Prize  Congratulations  SUSPENDED!!!,Phishing,11,126,1,True
+phish_208,Notice,noreply@irs.gov,Security Alert: Your password needs reset. Visit: http://bcn.update-6437.tk/login CONGRATULATIONS!!! Alert  CONFIRM!!! Prize  ACT NOW! 24 hours,Phishing,16,143,1,True
+safe_194,Invoice,manager@office.com,"Your account balance is $4473
+
+Best regards,
+Sarah Smith
+Coordinator
+
+Reference: status-719",Safe,12,91,0,False
+phish_323,Important,help@microsoft.com,Exclusive offer! Limited time: http://bank-2783.ml/login Update  SECURITY!!! Alert  ACCOUNT!!! Limited time  ACT NOW! immediately,Phishing,14,129,1,True
+safe_226,Monthly Report,john@company.com,"Your subscription has been renewed for another month.
+
+Best regards,
+John Doe
+Director",Safe,13,86,0,False
+safe_438,Order Confirmation,manager@office.com,Monthly newsletter: Check out our latest updates and features.,Safe,9,62,0,True
+phish_4,Notice,support@paypal.com,URGENT: Your account has been compromised. Click here to verify: http://aht.update-9909.tk/login UPDATE!!! URGENT!!! ACT NOW! immediately,Phishing,16,137,1,True
+safe_487,Project Update,manager@office.com,"Monthly newsletter: Check out our latest updates and features.
+
+Best regards,
+Mike Johnson
+Manager
+
+Reference: tracking-218",Safe,16,123,0,True
+safe_128,Welcome,team@work.com,"Project update: We're ahead of schedule!
+
+Best regards,
+Emily Davis
+Coordinator
+
+Reference: balance-653",Safe,13,103,0,True
+safe_73,Project Update,noreply@service.com,"Welcome to our service! Here's how to get started.
+
+Best regards,
+Emily Davis
+Director",Safe,14,86,0,False
+safe_291,Team Update,team@work.com,"Payment receipt for your recent transaction of $142.
+
+Reference: newsletter-748",Safe,10,79,0,False
+phish_87,Notice,security@bank.com,Congratulations! You won a prize. Claim now: http://verify-4533.ml/login CONFIRM!!! Security  ACCOUNT!!! Payment  Winner  FREE!!!,Phishing,14,129,1,True
+phish_238,URGENT,admin@amazon.com,Your payment failed. Please update payment method: http://muw.account-6103.ml/login CONGRATULATIONS!!! Alert  BANK!!! VERIFY!!! Suspended  EXCLUSIVE!!! ACT NOW! 48 hours,Phishing,18,169,1,True
+safe_430,Newsletter,noreply@service.com,"Team meeting notes from today's discussion.
+
+Best regards,
+Emily Davis
+Manager
+
+Reference: subscription-825",Safe,13,107,0,False
+phish_64,Notice,noreply@irs.gov,Your Apple ID has been locked. Unlock: http://verify-8569.top/login CONGRATULATIONS!!! Winner  Password  Update  CONFIRM!!! CLICK!!!,Phishing,14,132,1,True
+phish_63,Security Alert,service@apple.com,Your Netflix subscription expired. Renew: http://secure-5991.tk/login CONGRATULATIONS!!! PASSWORD!!! Prize  BANK!!! ACT NOW! 24 hours,Phishing,14,133,1,False
+phish_365,Security Alert,help@microsoft.com,Microsoft: Security update required. Download: http://secure-8327.ml/login Congratulations  WINNER!!! ACCOUNT!!! Prize  ACT NOW! 48 hours,Phishing,14,137,1,True
+safe_70,Meeting Invitation,info@business.com,"Payment receipt for your recent transaction of $11.
+
+Reference: invoice-532",Safe,10,75,0,False
+safe_412,Welcome,info@business.com,Your account balance is $7476,Safe,5,29,0,False
+safe_257,Invoice,support@legit.com,"Your subscription has been renewed for another month.
+
+Best regards,
+John Doe
+Coordinator",Safe,13,89,0,False
+phish_463,Important,admin@amazon.com,Amazon: Order confirmation needed. Verify: http://ltn.verify-5895.ga/login LIMITED TIME!!! WINNER!!! Payment  ACCOUNT!!! LIMITED!!!,Phishing,12,131,1,True
+safe_300,Welcome,john@company.com,"Your order #96779 has been shipped. Tracking number: TRRBR7EBB3
+
+Best regards,
+Sarah Smith
+Coordinator",Safe,14,102,0,False
+phish_490,Notice,admin@amazon.com,"Dear customer, we noticed unusual activity. Please update your info: http://account-8975.tk/login UPDATE!!! Winner  Refund  Urgent  Security  ACT NOW! immediately",Phishing,19,162,1,True
+safe_383,Order Confirmation,manager@office.com,Your profile has been updated successfully.,Safe,6,43,0,True
+phish_53,Notice,admin@amazon.com,Security Alert: Your password needs reset. Visit: http://jvk.bank-2275.ga/login Payment  Confirm  ALERT!!! Bank  Limited time  PASSWORD!!!,Phishing,15,138,1,True
+safe_469,Invoice,noreply@service.com,Your order #73977 has been shipped. Tracking number: QGOLHZELG1,Safe,9,63,0,False
+safe_324,Meeting Invitation,info@business.com,"Weekly status report is ready for review.
+
+Reference: profile-442",Safe,9,65,0,False
+safe_21,Newsletter,john@company.com,New comment on your document: Please review,Safe,7,43,0,False
+phish_340,Important,support@paypal.com,Amazon: Order confirmation needed. Verify: http://ocz.verify-4301.ml/login EXCLUSIVE!!! LIMITED TIME!!! Congratulations  PRIZE!!! BANK!!! Password ,Phishing,13,147,1,True
+safe_240,Invoice,john@company.com,Your order #62912 has been shipped. Tracking number: PTHCEHW3KH,Safe,9,63,0,False
+phish_5,Action Required,help@microsoft.com,Account suspended. Reactivate now: http://secure-8599.ga/login Click  Payment  Bank  CONGRATULATIONS!!! SECURITY!!!,Phishing,10,115,1,True
+safe_30,Order Confirmation,team@work.com,"Project update: We're ahead of schedule!
+
+Reference: order-434",Safe,8,62,0,True
+safe_141,Meeting Invitation,noreply@service.com,Team meeting notes from today's discussion.,Safe,6,43,0,False
+safe_111,Meeting Invitation,manager@office.com,"Payment receipt for your recent transaction of $300.
+
+Best regards,
+Sarah Smith
+Director",Safe,13,88,0,False
+safe_24,Monthly Report,support@legit.com,"Hi, Here's the report you requested. Let me know if you need changes.",Safe,13,69,0,False
+safe_392,Newsletter,support@legit.com,"Your password was successfully changed. If this wasn't you, contact support.
+
+Best regards,
+Emily Davis
+Manager",Safe,16,111,0,False
+safe_351,Newsletter,team@work.com,Your profile has been updated successfully.,Safe,6,43,0,True
+safe_106,Monthly Report,manager@office.com,"Project update: We're ahead of schedule!
+
+Reference: newsletter-724",Safe,8,67,0,True
+phish_373,Notice,admin@amazon.com,"Dear customer, we noticed unusual activity. Please update your info: http://rif.account-4186.top/login Bank  LIMITED TIME!!! PRIZE!!! Password ",Phishing,16,143,1,True
+safe_493,Project Update,support@legit.com,"Your account balance is $7411
+
+Best regards,
+Emily Davis
+Director
+
+Reference: order-454",Safe,12,87,0,False
+phish_431,Security Alert,service@apple.com,PayPal: Your account limited. Resolve: http://ewc.verify-7852.top/login Payment  Security  ACT NOW! 48 hours,Phishing,12,108,1,True
+phish_367,Notice,security@bank.com,FedEx: Package delivery failed. Track: http://iqc.account-7348.xyz/login PAYMENT!!! Winner  Bank  CONGRATULATIONS!!! SUSPENDED!!! Password ,Phishing,12,139,1,True
+safe_15,Invoice,team@work.com,"Your profile has been updated successfully.
+
+Best regards,
+Mike Johnson
+Manager",Safe,11,79,0,True
+safe_374,Meeting Invitation,info@business.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Reference: update-959",Safe,15,92,0,True
+phish_105,Security Alert,support@paypal.com,Security Alert: Your password needs reset. Visit: http://hfc.secure-7210.tk/login Limited  LIMITED TIME!!! Refund  ALERT!!! Click ,Phishing,14,130,1,True
+safe_64,Invoice,noreply@service.com,Team meeting notes from today's discussion.,Safe,6,43,0,False
+safe_359,Project Update,info@business.com,"Team meeting notes from today's discussion.
+
+Best regards,
+Mike Johnson
+Director",Safe,11,80,0,False
+phish_178,URGENT,security@bank.com,Account suspended. Reactivate now: http://qtp.verify-8116.top/login Refund  Limited time  Payment  ALERT!!! ACT NOW! 48 hours,Phishing,14,125,1,True
+phish_163,Notice,noreply@irs.gov,Amazon: Order confirmation needed. Verify: http://ksq.verify-5296.ml/login CONFIRM!!! SECURITY!!! ACT NOW! 24 hours,Phishing,12,115,1,True
+safe_171,Order Confirmation,noreply@service.com,"Your subscription has been renewed for another month.
+
+Best regards,
+John Doe
+Coordinator",Safe,13,89,0,False
+safe_339,Order Confirmation,manager@office.com,"Weekly status report is ready for review.
+
+Best regards,
+Sarah Smith
+Team Lead
+
+Reference: project-902",Safe,15,102,0,False
+safe_439,Welcome,noreply@service.com,"Project update: We're ahead of schedule!
+
+Reference: receipt-394",Safe,8,64,0,True
+phish_13,URGENT,admin@amazon.com,IRS Notice: Tax refund pending. Click: http://secure-2553.top/login FREE!!! Bank  Click  SECURITY!!! Limited time  Prize  ACT NOW! 24 hours,Phishing,18,139,1,True
+safe_268,Order Confirmation,team@work.com,Welcome to our service! Here's how to get started.,Safe,9,50,0,False
+safe_303,Welcome,info@business.com,"Weekly status report is ready for review.
+
+Best regards,
+Emily Davis
+Manager
+
+Reference: review-300",Safe,14,99,0,False
+safe_76,Project Update,noreply@service.com,"Welcome to our service! Here's how to get started.
+
+Best regards,
+John Doe
+Manager",Safe,14,82,0,False
+safe_491,Team Update,team@work.com,"Thank you for your purchase! Your invoice is attached.
+
+Reference: profile-149",Safe,11,78,0,False
+phish_362,URGENT,noreply@irs.gov,Amazon: Order confirmation needed. Verify: http://lsa.secure-3170.top/login Security  ALERT!!!,Phishing,8,94,1,True
+phish_454,Security Alert,admin@amazon.com,Amazon: Order confirmation needed. Verify: http://verify-1436.ml/login Security  REFUND!!! EXCLUSIVE!!!,Phishing,9,103,1,True
+safe_62,Welcome,team@work.com,"Thank you for your purchase! Your invoice is attached.
+
+Reference: profile-719",Safe,11,78,0,False
+phish_391,Action Required,noreply@irs.gov,Exclusive offer! Limited time: http://bzm.secure-5696.top/login Limited  Click  EXCLUSIVE!!! Password  SECURITY!!! Free ,Phishing,11,120,1,True
+safe_19,Meeting Invitation,team@work.com,"Your account balance is $771
+
+Best regards,
+Sarah Smith
+Manager",Safe,10,63,0,False
+safe_105,Order Confirmation,info@business.com,"Your profile has been updated successfully.
+
+Best regards,
+John Doe
+Manager
+
+Reference: project-429",Safe,13,99,0,True
+phish_411,URGENT,service@apple.com,Amazon: Order confirmation needed. Verify: http://bank-4937.tk/login UPDATE!!! Urgent  Exclusive  ACT NOW! immediately,Phishing,12,118,1,True
+phish_318,Security Alert,service@apple.com,URGENT: Your account has been compromised. Click here to verify: http://fln.bank-9431.ga/login PASSWORD!!! Free  SECURITY!!! SUSPENDED!!! Congratulations  VERIFY!!!,Phishing,17,164,1,True
+safe_40,Project Update,team@work.com,"New comment on your document: Looks good!
+
+Reference: tracking-218",Safe,9,66,0,False
+phish_324,URGENT,admin@amazon.com,"Dear customer, we noticed unusual activity. Please update your info: http://bank-5482.ga/login Urgent  LIMITED!!! BANK!!! Prize  ACCOUNT!!! REFUND!!!",Phishing,17,149,1,True
+safe_452,Meeting Invitation,info@business.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Reference: purchase-524",Safe,13,96,0,False
+safe_239,Newsletter,support@legit.com,"Weekly status report is ready for review.
+
+Best regards,
+Sarah Smith
+Manager",Safe,12,76,0,False
+phish_246,Security Alert,service@apple.com,Exclusive offer! Limited time: http://kjz.account-8266.ga/login Urgent  LIMITED TIME!!! Confirm  Password  UPDATE!!!,Phishing,11,116,1,True
+phish_470,Security Alert,noreply@irs.gov,Your bank account requires verification: http://bcs.bank-8557.top/login CLICK!!! REFUND!!! Limited time ,Phishing,10,104,1,True
+safe_420,Newsletter,john@company.com,"Project update: We're ahead of schedule!
+
+Best regards,
+John Doe
+Director
+
+Reference: review-312",Safe,13,96,0,True
+phish_483,Security Alert,security@bank.com,Amazon: Order confirmation needed. Verify: http://update-6183.top/login Free  Update  Limited  ACT NOW! immediately,Phishing,12,115,1,True
+phish_271,Security Alert,service@apple.com,Amazon: Order confirmation needed. Verify: http://sto.account-8153.tk/login BANK!!! CONFIRM!!! FREE!!! LIMITED!!! PASSWORD!!!,Phishing,11,125,1,True
+phish_388,Security Alert,noreply@irs.gov,Security Alert: Your password needs reset. Visit: http://secure-9935.top/login UPDATE!!! Free  Password  CONFIRM!!!,Phishing,12,115,1,True
+phish_43,Action Required,service@apple.com,Security Alert: Your password needs reset. Visit: http://account-3644.xyz/login Password  Winner  Security  REFUND!!! ALERT!!! CONFIRM!!! ACT NOW! 24 hours,Phishing,18,155,1,True
+phish_205,Security Alert,help@microsoft.com,Amazon: Order confirmation needed. Verify: http://account-4388.ga/login Free  Urgent  BANK!!! Alert  Limited time ,Phishing,12,114,1,True
+safe_458,Team Update,manager@office.com,Thank you for your purchase! Your invoice is attached.,Safe,9,54,0,False
+safe_148,Monthly Report,manager@office.com,"Payment receipt for your recent transaction of $42.
+
+Reference: profile-468",Safe,10,75,0,False
+safe_63,Team Update,team@work.com,"Your account balance is $618
+
+Best regards,
+Mike Johnson
+Team Lead
+
+Reference: team-590",Safe,13,87,0,False
+safe_293,Team Update,info@business.com,"Payment receipt for your recent transaction of $16.
+
+Reference: review-143",Safe,10,74,0,False
+phish_173,URGENT,service@apple.com,Account suspended. Reactivate now: http://wfn.secure-1119.ga/login WINNER!!! Confirm  Limited time  Urgent  SECURITY!!! ACT NOW! 24 hours,Phishing,15,137,1,True
+safe_44,Welcome,info@business.com,Thank you for your purchase! Your invoice is attached.,Safe,9,54,0,False
+safe_33,Invoice,team@work.com,"Project update: We're ahead of schedule!
+
+Best regards,
+Sarah Smith
+Director
+
+Reference: report-102",Safe,13,99,0,True
+phish_59,URGENT,help@microsoft.com,Exclusive offer! Limited time: http://bank-4668.xyz/login UPDATE!!! Password ,Phishing,7,77,1,True
+phish_1,URGENT,service@apple.com,"Dear customer, we noticed unusual activity. Please update your info: http://secure-8037.top/login CLICK!!! Password  ACT NOW! 48 hours",Phishing,17,134,1,True
+safe_273,Team Update,info@business.com,Your profile has been updated successfully.,Safe,6,43,0,True
+phish_27,Important,service@apple.com,Security Alert: Your password needs reset. Visit: http://fvr.secure-6994.top/login PASSWORD!!! UPDATE!!! PRIZE!!! LIMITED!!! WINNER!!!,Phishing,13,134,1,True
+safe_295,Team Update,manager@office.com,Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.,Safe,11,71,0,False
+phish_200,Action Required,noreply@irs.gov,IRS Notice: Tax refund pending. Click: http://ebz.verify-2941.tk/login Click  Bank  Exclusive  Alert  PAYMENT!!! Congratulations  ACT NOW! immediately,Phishing,16,150,1,True
+phish_320,Important,noreply@irs.gov,Your Netflix subscription expired. Renew: http://tlm.account-3715.xyz/login Prize  PASSWORD!!! Alert  Limited  Exclusive  ACT NOW! immediately,Phishing,14,142,1,True
+phish_393,Security Alert,help@microsoft.com,Security Alert: Your password needs reset. Visit: http://account-1288.top/login Account  Exclusive  URGENT!!! REFUND!!! ACT NOW! immediately,Phishing,15,140,1,True
+safe_243,Monthly Report,info@business.com,Team meeting notes from today's discussion.,Safe,6,43,0,False
+safe_197,Order Confirmation,team@work.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+Mike Johnson
+Director
+
+Reference: profile-796",Safe,16,115,0,False
+phish_249,URGENT,service@apple.com,Your Apple ID has been locked. Unlock: http://ffl.bank-2834.tk/login Refund  Payment ,Phishing,10,85,1,False
+phish_377,Notice,help@microsoft.com,Congratulations! You won a prize. Claim now: http://wkv.account-3742.xyz/login Alert  Verify  ACCOUNT!!! WINNER!!! Refund  ACT NOW! 24 hours,Phishing,17,140,1,True
+safe_93,Newsletter,manager@office.com,"Payment receipt for your recent transaction of $240.
+
+Best regards,
+Sarah Smith
+Manager
+
+Reference: newsletter-939",Safe,15,114,0,False
+safe_481,Order Confirmation,team@work.com,"Your account balance is $2666
+
+Best regards,
+John Doe
+Manager",Safe,10,61,0,False
+safe_353,Meeting Invitation,john@company.com,"Thank you for your purchase! Your invoice is attached.
+
+Reference: receipt-670",Safe,11,78,0,False
+safe_48,Order Confirmation,noreply@service.com,"Thank you for your purchase! Your invoice is attached.
+
+Reference: team-261",Safe,11,75,0,False
+safe_399,Team Update,support@legit.com,"Your account balance is $6025
+
+Reference: team-702",Safe,7,50,0,False
+phish_322,Notice,security@bank.com,Your bank account requires verification: http://nkd.secure-1589.ga/login CONFIRM!!! URGENT!!! UPDATE!!! Prize  Winner  Password ,Phishing,12,128,1,True
+safe_498,Monthly Report,noreply@service.com,New comment on your document: Looks good!,Safe,7,41,0,False
+safe_340,Monthly Report,noreply@service.com,"Team meeting notes from today's discussion.
+
+Best regards,
+Mike Johnson
+Team Lead
+
+Reference: subscription-929",Safe,14,110,0,False
+phish_223,Action Required,admin@amazon.com,Your Apple ID has been locked. Unlock: http://bank-5347.top/login Limited time  Update  Limited  ACT NOW! 24 hours,Phishing,16,114,1,True
+phish_296,Action Required,service@apple.com,Security Alert: Your password needs reset. Visit: http://yaz.account-8039.top/login FREE!!! SUSPENDED!!! Urgent  Update  Bank ,Phishing,13,126,1,True
+safe_6,Welcome,noreply@service.com,"Monthly newsletter: Check out our latest updates and features.
+
+Best regards,
+Emily Davis
+Director",Safe,14,98,0,True
+phish_474,Action Required,admin@amazon.com,"Dear customer, we noticed unusual activity. Please update your info: http://secure-3795.xyz/login Password  EXCLUSIVE!!!",Phishing,13,120,1,True
+phish_241,Important,admin@amazon.com,PayPal: Your account limited. Resolve: http://verify-2582.tk/login Password  LIMITED!!! Update  WINNER!!! URGENT!!! ACT NOW! 48 hours,Phishing,15,133,1,True
+safe_168,Team Update,info@business.com,"Welcome to our service! Here's how to get started.
+
+Best regards,
+Sarah Smith
+Coordinator",Safe,14,89,0,False
+safe_74,Project Update,manager@office.com,"Your order #19965 has been shipped. Tracking number: KOSY6L49NO
+
+Best regards,
+Emily Davis
+Coordinator",Safe,14,102,0,False
+phish_300,Notice,help@microsoft.com,"Dear customer, we noticed unusual activity. Please update your info: http://elr.update-7136.xyz/login Congratulations  Confirm ",Phishing,13,127,1,True
+safe_448,Order Confirmation,noreply@service.com,"New comment on your document: Please review
+
+Reference: document-724",Safe,9,68,0,False
+safe_66,Meeting Invitation,support@legit.com,"Weekly status report is ready for review.
+
+Best regards,
+Emily Davis
+Team Lead",Safe,13,78,0,False
+phish_339,Security Alert,security@bank.com,Exclusive offer! Limited time: http://ovb.bank-3652.xyz/login Bank  REFUND!!! SUSPENDED!!! Congratulations  Security ,Phishing,10,117,1,True
+safe_440,Newsletter,info@business.com,"Thank you for your purchase! Your invoice is attached.
+
+Reference: meeting-524",Safe,11,78,0,False
+safe_12,Newsletter,john@company.com,"Project update: We're ahead of schedule!
+
+Best regards,
+Sarah Smith
+Coordinator",Safe,11,79,0,True
+safe_185,Monthly Report,noreply@service.com,"Weekly status report is ready for review.
+
+Best regards,
+Sarah Smith
+Team Lead",Safe,13,78,0,False
+phish_130,Security Alert,security@bank.com,Microsoft: Security update required. Download: http://vnm.verify-1954.tk/login PASSWORD!!! URGENT!!! Update  Free  SECURITY!!! Account  ACT NOW! immediately,Phishing,15,156,1,True
+safe_253,Meeting Invitation,john@company.com,"Your password was successfully changed. If this wasn't you, contact support.
+
+Best regards,
+Sarah Smith
+Director",Safe,16,112,0,False
+phish_215,Notice,noreply@irs.gov,URGENT: Your account has been compromised. Click here to verify: http://znq.account-4505.xyz/login Suspended  LIMITED!!! CONGRATULATIONS!!! Payment  Alert  ACT NOW! immediately,Phishing,19,176,1,True
+phish_44,Important,noreply@irs.gov,FedEx: Package delivery failed. Track: http://khs.secure-8170.tk/login Security  FREE!!! REFUND!!! Click  VERIFY!!! Urgent  ACT NOW! immediately,Phishing,15,144,1,True
+safe_132,Invoice,john@company.com,"Weekly status report is ready for review.
+
+Best regards,
+Sarah Smith
+Coordinator
+
+Reference: purchase-691",Safe,14,105,0,False
+phish_353,Security Alert,security@bank.com,Your bank account requires verification: http://zcr.update-2862.top/login Alert  Winner ,Phishing,8,88,1,True
+phish_229,Notice,security@bank.com,FedEx: Package delivery failed. Track: http://account-3659.top/login URGENT!!! CONFIRM!!! BANK!!! Suspended  Security  Password  ACT NOW! 24 hours,Phishing,16,146,1,True
+safe_155,Order Confirmation,team@work.com,"Your order #97922 has been shipped. Tracking number: XMFB8RKGRE
+
+Best regards,
+Mike Johnson
+Team Lead",Safe,15,101,0,False
+phish_281,Security Alert,service@apple.com,IRS Notice: Tax refund pending. Click: http://iya.secure-1079.tk/login Verify  SECURITY!!! BANK!!! Click  Prize ,Phishing,12,112,1,True
+phish_62,Notice,noreply@irs.gov,FedEx: Package delivery failed. Track: http://jhl.bank-5269.ga/login SECURITY!!! LIMITED!!! PRIZE!!! VERIFY!!!,Phishing,10,110,1,True
+safe_131,Invoice,team@work.com,"Project update: We're ahead of schedule!
+
+Reference: purchase-324",Safe,8,65,0,True
+phish_79,Security Alert,service@apple.com,IRS Notice: Tax refund pending. Click: http://verify-2758.ga/login Suspended  EXCLUSIVE!!! Bank  Account ,Phishing,11,105,1,True
+phish_254,URGENT,help@microsoft.com,URGENT: Your account has been compromised. Click here to verify: http://account-2010.tk/login Suspended  Refund  Confirm  ACT NOW! immediately,Phishing,17,142,1,True
+safe_386,Order Confirmation,info@business.com,"Your subscription has been renewed for another month.
+
+Reference: profile-660",Safe,10,77,0,False
+safe_408,Invoice,manager@office.com,Your order #64593 has been shipped. Tracking number: 1ZVQSDRO36,Safe,9,63,0,False
+phish_207,Security Alert,admin@amazon.com,Your Netflix subscription expired. Renew: http://secure-3733.tk/login Payment  ACCOUNT!!! Exclusive  Verify  Limited  Free ,Phishing,12,123,1,True
+safe_221,Invoice,manager@office.com,"Team meeting notes from today's discussion.
+
+Best regards,
+Sarah Smith
+Director",Safe,11,79,0,False
+safe_262,Newsletter,noreply@service.com,"New comment on your document: Please review
+
+Best regards,
+Sarah Smith
+Coordinator
+
+Reference: status-520",Safe,14,105,0,False
+safe_485,Project Update,john@company.com,"Weekly status report is ready for review.
+
+Reference: subscription-209",Safe,9,70,0,False
+phish_334,Notice,noreply@irs.gov,FedEx: Package delivery failed. Track: http://update-5526.top/login FREE!!! SECURITY!!! BANK!!!,Phishing,9,95,1,True
+safe_117,Order Confirmation,info@business.com,Your profile has been updated successfully.,Safe,6,43,0,True
+phish_117,Important,service@apple.com,Your bank account requires verification: http://update-6848.ml/login CLICK!!! Suspended  Update  VERIFY!!! ACT NOW! 24 hours,Phishing,14,124,1,True
+phish_299,URGENT,service@apple.com,IRS Notice: Tax refund pending. Click: http://bko.account-3851.xyz/login PASSWORD!!! ACCOUNT!!! Security  LIMITED!!! ACT NOW! 24 hours,Phishing,15,134,1,True
+phish_346,Important,admin@amazon.com,Congratulations! You won a prize. Claim now: http://bank-9197.xyz/login LIMITED!!! PRIZE!!! SECURITY!!! Alert  Exclusive  UPDATE!!!,Phishing,14,131,1,True
+phish_243,URGENT,support@paypal.com,Congratulations! You won a prize. Claim now: http://mus.verify-3338.top/login Exclusive  SUSPENDED!!! ACT NOW! 48 hours,Phishing,14,119,1,True
+phish_80,Important,admin@amazon.com,Security Alert: Your password needs reset. Visit: http://account-2699.xyz/login PASSWORD!!! CONFIRM!!!,Phishing,10,102,1,True
+safe_328,Welcome,info@business.com,"Project update: We're ahead of schedule!
+
+Best regards,
+Mike Johnson
+Director
+
+Reference: newsletter-247",Safe,13,104,0,True
+safe_16,Welcome,john@company.com,"Thank you for your purchase! Your invoice is attached.
+
+Best regards,
+John Doe
+Manager",Safe,14,86,0,False
+safe_122,Meeting Invitation,info@business.com,"Weekly status report is ready for review.
+
+Best regards,
+Sarah Smith
+Coordinator",Safe,12,80,0,False
+safe_426,Team Update,support@legit.com,"Your profile has been updated successfully.
+
+Best regards,
+Sarah Smith
+Director",Safe,11,79,0,True
+phish_305,URGENT,security@bank.com,IRS Notice: Tax refund pending. Click: http://account-6048.xyz/login Urgent  EXCLUSIVE!!! PASSWORD!!! LIMITED TIME!!! Confirm  ACT NOW! immediately,Phishing,16,147,1,True
+phish_410,URGENT,support@paypal.com,PayPal: Your account limited. Resolve: http://bon.update-6825.ga/login REFUND!!! CONGRATULATIONS!!! SUSPENDED!!! UPDATE!!! Prize ,Phishing,11,129,1,True
+safe_442,Team Update,support@legit.com,Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.,Safe,11,71,0,False
+phish_26,Important,admin@amazon.com,Congratulations! You won a prize. Claim now: http://bank-8327.xyz/login Suspended  LIMITED!!! ACT NOW! immediately,Phishing,13,114,1,True
+phish_458,Security Alert,support@paypal.com,Amazon: Order confirmation needed. Verify: http://secure-9752.xyz/login Account  Limited  BANK!!! WINNER!!! CLICK!!! ALERT!!! ACT NOW! 48 hours,Phishing,16,143,1,True
+safe_218,Monthly Report,manager@office.com,"Meeting scheduled for tomorrow at 3 PM. Please confirm your attendance.
+
+Best regards,
+John Doe
+Manager",Safe,16,103,0,False
+phish_292,Security Alert,support@paypal.com,IRS Notice: Tax refund pending. Click: http://xej.bank-2130.ga/login WINNER!!! CLICK!!! SUSPENDED!!! PRIZE!!! SECURITY!!! LIMITED!!!,Phishing,13,132,1,True
+phish_357,Important,service@apple.com,Account suspended. Reactivate now: http://twg.bank-4638.ml/login Urgent  Prize  EXCLUSIVE!!! ACT NOW! 24 hours,Phishing,12,110,1,True
+phish_88,Important,admin@amazon.com,IRS Notice: Tax refund pending. Click: http://account-3574.ga/login Refund  PAYMENT!!! CONFIRM!!! BANK!!! PASSWORD!!! VERIFY!!! ACT NOW! 24 hours,Phishing,17,145,1,True
+phish_118,URGENT,service@apple.com,Microsoft: Security update required. Download: http://ryh.account-2794.xyz/login Urgent  Congratulations  ACT NOW! 48 hours,Phishing,12,123,1,True
+phish_168,URGENT,help@microsoft.com,URGENT: Your account has been compromised. Click here to verify: http://amg.account-6395.ml/login Limited time  Security  WINNER!!! FREE!!!,Phishing,16,139,1,True
+phish_36,Notice,support@paypal.com,FedEx: Package delivery failed. Track: http://rsl.account-8623.ga/login Urgent  CLICK!!! ACT NOW! 48 hours,Phishing,12,106,1,True
+phish_162,Security Alert,help@microsoft.com,Your Netflix subscription expired. Renew: http://kmj.account-7607.ml/login Payment  Refund  Exclusive ,Phishing,9,102,1,False
+phish_95,Security Alert,security@bank.com,Your Apple ID has been locked. Unlock: http://sfg.verify-2497.top/login Urgent  PAYMENT!!! Congratulations  UPDATE!!! REFUND!!! ACT NOW! 24 hours,Phishing,17,145,1,True
+phish_124,Security Alert,support@paypal.com,"Dear customer, we noticed unusual activity. Please update your info: http://bank-4410.ml/login LIMITED!!! CLICK!!! Update  Alert  URGENT!!! PRIZE!!!",Phishing,17,148,1,True
+safe_404,Invoice,manager@office.com,"Your password was successfully changed. If this wasn't you, contact support.",Safe,11,76,0,False
+safe_417,Team Update,info@business.com,"Hi, Here's the report you requested. Let me know if you need changes.
+
+Reference: balance-207",Safe,15,93,0,False
+safe_45,Monthly Report,support@legit.com,New comment on your document: Needs revision,Safe,7,44,0,False
+safe_107,Order Confirmation,noreply@service.com,"Your account balance is $7700
+
+Reference: review-672",Safe,7,52,0,False
